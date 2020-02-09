@@ -1,0 +1,36 @@
+
+<Header> 
+	<Logo>
+	<TopNav>
+	<Controls>
+</Header>
+
+<Main>
+	<MainTitle>
+	<Content>
+		<Articles>
+		<ArticlesNav>
+			<Search>
+			<Categories>
+		<ArticlesNav>
+	</Content>
+	<Pagination>	
+</Main>
+
+<Footer>
+
+---------------------------
+
+
+<Header> 
+	<Logo>
+	<TopNav>
+	<Social>
+</Header>
+
+<Main>
+	<MainNav />
+  	<MainContent />		
+	<SecondaryNav />
+</Main>
+

@@ -1,0 +1,32 @@
+
+-- iCezar --
+
+npm run build
+scp -r ./build/* root@138.197.211.172:/var/www/icezar.com/html/
+systemctl restart nginx.service
+
+
+-- iCezar API --
+
+cd icezar-api
+mvn clean install && java -jar target/icezar-api-1.0-SNAPSHOT.jar
+http://localhost:8080/icezar/blogs?category=java
+http://localhost:8080/icezar/blogs?page=0
+
+-- MONGO --
+use icezar;
+show collections;
+
+db.blog.insert({
+  "category": "java"
+  "img": "img17.jpg",
+  "imgDesc": "Image Description",
+  "date": "20180629",
+  "title": "5 basic tips for colors",
+  "content": "<p>Tis the season to be jolly, and Ueno has one more thing to be cheery about in 2017.</p>",
+  "tags": "Java,Scala"
+});
+
+db.blog.findOne({});
+
+

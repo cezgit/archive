@@ -1,0 +1,1947 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "type": "vod-sub",
+      "sid": 1,
+      "name": "Netflix",
+      "url": "http://www.netflix.com",
+      "description": "The grand-daddy of streaming services, Netflix offers <b>over 6000 titles</b> including movies, TV shows and thousands of hours of quality original content. With an attractive, smooth interface and its rich feature offering, Netflix is one of the best cord-cutting services, guaranteed to keep you entertained.",
+      "countries": "US, Canada, UK, Australia, Others",
+      "content": "Movies, Shows, Originals, Documentaries",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "Android TV",
+        "XBox",
+        "PlayStation",
+        "Wii",
+        "Hopper",
+        "Tivo"
+      ],
+      "pricing": [
+        {
+          "id": "Basic",
+          "amount": 7.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "SD, 1 Screen",
+          "misc": "Stream content in SD. No simultaneous viewing",
+          "tootltip": ""
+        },
+        {
+          "id": "Standard",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, 2 Screens",
+          "misc": "Stream  / download content in HD on 2 devices simultaneously",
+          "tootltip": ""
+        },
+        {
+          "id": "Premium",
+          "amount": 13.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "4K/UHD, 4 Screens",
+          "misc": "Mostly HD content, some 4K content. Stream / download content on 4 devices simultaneously",
+          "tootltip": ""
+        }
+      ],
+      "pros": [
+          "Great experience. Simple and easy to use",
+          "Lots of categories to choose from",
+          "Some 4K/UHD content",
+          "Create watch lists for up to 5 profiles and a separate kids section",
+          "Download content to watch offline"
+      ],
+      "cons": [
+        "Content changes rapidly. Keeping up with what’s removed or added is a challenge",
+        "New content takes time to arrive on Netflix",
+        "Selection depends on your location"
+      ],
+      "features": [
+        {
+          "name": "4K/UHD",
+          "description": "Some content is available for streaming in 4K/UHD",
+          "type": "common"
+        },
+        {
+          "name": "Auto Play",
+          "description": "Automatically continue watching the next episode or movie",
+          "type": "common"
+        },
+        {
+          "name": "Create Profiles",
+          "description": "<b>5 profiles per account</b>, keep recommendations and watch lists separate; separate kids section",
+          "type": "exclusive"
+        },
+        {
+          "name": "Recommendations",
+          "description": "Content is suggested based on previous viewing experience and/or user rating",
+          "type": "common"
+        },
+        {
+          "name": "Rate Content",
+          "description": "Netflix lets you rate content using the <b>thumbs up</b> or <b>thumbs down</b> feature",
+          "type": "common"
+        },
+        {
+          "name": "Continue Watching",
+          "description": "As soon as you start watching, Netflix adds the content to the <b>continue watching</b> listing so that you can watch it later on the same or a different device",
+          "type": "common"
+        },
+        {
+          "name": "Viewing History",
+          "description": "List of previously watched content",
+          "type": "common"
+        },
+        {
+          "name": "Offline Viewing",
+          "description": "Download content offline for viewing without an internet connection",
+          "type": "common"
+        },
+        {
+          "name": "Parental Controls",
+          "description": "Set a maturity level for a particular profile to control content available for that profile. Or set a 4-digit PIN that must be entered to play any content above a selected maturity level, on any profile",
+          "type": "common"
+        },
+        {
+          "name": "Categories",
+          "description": "Netflix has a huge list of categories that go far beyond the usual Action, Comedy, Drama, Sci-Fi and the like. It also has a secret master list of categories that are even more specialized which can be accessed using <b>codes</b> at <a href='http://www.netflix.com/browse/genre/25804' target=_blank>http://www.netflix.com/browse/genre/###</a>",
+          "type": "common"
+        },
+        {
+          "name": "Watch Lists",
+          "description": "Create a customized collection of TV shows (<b>MyList</b>) and movies you want to watch as you browse Netflix's catalog",
+          "type": "common"
+        }
+      ],
+      "news": [
+        {
+          "title": "Dolby Atmos Coming to Netflix",
+          "article": "Imagine watching your favorite TV show or movie without the sounds that truly moved you and made you feel the impact of each moment. In creating an immersive atmosphere, sound is just as important, if not more important, than the picture itself. It is a critical tool to extend the storytelling beyond the screen and draw audiences into the narrative. I’m pleased to announce the addition of Dolby Atmos® support on Netflix beginning with Okja, a critically praised film directed by Bong Joon Ho that recently debuted at the Cannes Film Festival, and is available globally on Netflix starting today.",
+          "date": "2017-06-28",
+          "icon": "fa fa-headphones"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "vod-sub",
+      "sid": 2,
+      "name": "Amazon Video",
+      "url": "https://www.amazon.com/Prime-Video/b?node=2676882011",
+      "description": "If you already have an Amazon Prime membership, Prime Video comes for free although not everything is available to watch free of charge. Some of the latest films can be bought or rented for a fee. It’s a good choice for binge-watchers, offering an impressive content library of more than <b>18,000 movies</b> and <b>2,000 TV shows</b>.",
+      "countries": "US, Canada, UK, Australia, Others",
+      "content": "Movies, Shows, Originals, Documentaries, Sports, Add-ons",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Roku Stick",
+        "XBox",
+        "PlayStation",
+        "Wii",
+        "Tivo"
+      ],
+      "pricing": [
+        {
+          "id": "Standalone",
+          "amount": 7.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "4K/UHD, 2 Screens",
+          "misc": "Mostly HD content, some 4K content. Watch content on 2 devices simultaneously",
+          "tootltip": ""
+        },
+        {
+          "id": "Prime",
+          "amount": 10.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "4K/UHD, 2 Screens",
+          "misc": "All Standalone features, plus <b>FREE Two-Day Shipping</b> and other benefits",
+          "tootltip": ""
+        },
+        {
+          "id": "Prime Yearly",
+          "amount": 99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "4K/UHD, 2 Screens",
+          "misc": "All Prime features for 1 year, <b>2 months free!</b>",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "4K/UHD",
+          "description": "Some content is available for streaming in 4K/UHD",
+          "type": "common"
+        },
+        {
+          "name": "On-screen Movie Info",
+          "description": "<b>X-Ray</b> feeds viewers a steady stream of info about the actors, filmmakers, music, and assorted trivia in each scene from IMDb, directly on screen",
+          "type": "exclusive"
+        },
+        {
+          "name": "Parental Controls",
+          "description": "Amazon Video parental controls work by requiring entry of your PIN to bypass any purchase or viewing restrictions you've enabled",
+          "type": "common"
+        },
+        {
+          "name": "Viewing History",
+          "description": "List of previously watched content. Hidden under your <b>Account</b> page > <b>Improve Your Recommendations</b> > <b>Videos you've watched</b>",
+          "type": "common"
+        },
+        {
+          "name": "Continue Watching",
+          "description": "Continue watching content later on the same or a different devices",
+          "type": "common"
+        },
+        {
+          "name": "Auto Play",
+          "description": "Auto Play gives you the option to automatically play episodes of a TV series back-to-back. It shows you the <b>Next Up</b> episode in a TV series at the end of the currently playing episode, while the credits roll",
+          "type": "common"
+        },
+        {
+          "name": "Offline Viewing",
+          "description": "Only selected Prime Video titles are available to download and, the time period you have to view a downloaded title while your device is offline varies by title",
+          "type": "common"
+        },
+        {
+          "name": "Add-Ons",
+          "description": "Add HBO, Showtime and Starz Channels channel (at an extra cost)",
+          "type": "exclusive"
+        },
+        {
+          "name": "Categories",
+          "description": "Most Popular, Top Rated, Recently Added, Originals, Trending, Exclusives, Genres, etc",
+          "type": "common"
+        },
+        {
+          "name": "Watch Lists",
+          "description": "<b>Your Videos</b> keeps track of shows/movies you haven't finished watching or have added to your Watchlist",
+          "type": "common"
+        }
+      ],
+      "news": [
+        {
+          "title": "Amazon Starts Streaming Shows The Next Day on Amazon Prime Video",
+          "article": "For the first time in the United States, Amazon will start airing a TV show the next day after it airs as part of your Amazon Prime Membership. Starting in August Amazon Prime will air The Last Ship a TNT series the day after they air on TNT. (From the best of our knowledge this is the first time this has ever happened in the United States.) Hopefully, this is just the start of more shows coming to Amazon Prime the next day.",
+          "date": "2017-07-18",
+          "icon": "fa fa-plus"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "vod-sub",
+      "sid": 3,
+      "name": "Hulu",
+      "url": "https://secure.hulu.com/signup?screen_index=0&src=_loc_landing_b&client_type=web&submit_btn=Get+One+Month+Free&plus=1",
+      "description": "Primarily oriented towards television series, Hulu also offers original content although at a slower rate than its main competitors. As of May, 2017, Hulu launched a <b>live tv streaming service</b> competing with OTT services like SlingTV and DirecTV Now.",
+      "countries": "US, Japan",
+      "content": "Shows, Originals, Movies, Documentaries, Add-ons, Live TV",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "XBox",
+        "PlayStation",
+        "Wii",
+        "Tivo"
+      ],
+      "pricing": [
+        {
+          "id": "1 Yr. Promo - Limited Commercials",
+          "amount": 5.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "No",
+          "quality": "",
+          "limits": "SD/HD, 1 Screen",
+          "misc": "No simultaneous viewing",
+          "tootltip": ""
+        },
+        {
+          "id": "Limited Commercials",
+          "amount": 7.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "No",
+          "quality": "",
+          "limits": "SD/HD, 1 Screen",
+          "misc": "No simultaneous viewing",
+          "tootltip": ""
+        },
+        {
+          "id": "No Commercials",
+          "amount": 11.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "SD/HD, 1 Screen",
+          "misc": "No simultaneous viewing",
+          "tootltip": ""
+        },
+        {
+          "id": "Hulu + Live TV",
+          "amount": 39.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "No",
+          "quality": "HD",
+          "limits": "50+ ch, 2 Screens",
+          "misc": "50+ channels plus Hulu’s existing ad-supported streaming library",
+          "tootltip": ""
+        },
+        {
+          "id": "Hulu(ad-free) + Live TV",
+          "amount": 43.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "HD",
+          "limits": "50+ ch, 2 Screens",
+          "misc": "50+ channels plus Hulu’s existing no-commercial streaming library",
+          "tootltip": ""
+        },
+        {
+          "id": "SHOWTIME® Add-on",
+          "amount": 8.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, 1 Screen",
+          "misc": "Price is in addition to subscription plan",
+          "tootltip": ""
+        },
+        {
+          "id": "HBO Add-on",
+          "amount": 14.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, 1 Screen",
+          "misc": "Price is in addition to subscription plan",
+          "tootltip": ""
+        },
+        {
+          "id": "Cinemax Add-on",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, 1 Screen",
+          "misc": "Price is in addition to subscription plan",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Next Day Streaming",
+          "description": "Next-day streaming of ABC, Fox, and NBC Shows (<b>TV</b>)",
+          "type": "exclusive"
+        },
+        {
+          "name": "Viewing History",
+          "description": "",
+          "type": "common"
+        },
+        {
+          "name": "Record Live TV",
+          "description": "Record live TV, starting with 50 hours of storage (<b>TV</b>)",
+          "type": "common"
+        },
+        {
+          "name": "P/RW/FF",
+          "description": "Pause, rewind, and fast-forward live TV (<b>TV</b>)",
+          "type": "common"
+        },
+        {
+          "name": "Create Profiles",
+          "description": "Create up to 6 individual profiles, keep track of your favorites and personalize your Hulu experience (<b>TV</b>)",
+          "type": "exclusive"
+        },
+        {
+          "name": "Categories",
+          "description": "Choose from categories like Popular, Recently Added, Originals, Staff Picks, Exclusives, Genres, etc",
+          "type": "common"
+        },
+        {
+          "name": "Watch Lists",
+          "description": "<b>My Stuff</b> is your personal space for everything you want to keep track of – you control what goes here. It’s available on all devices with the new Hulu experience",
+          "type": "common"
+        },
+        {
+          "name": "Parental Controls",
+          "description": "You have to be at least <b>17 years old</b> to view mature content. Parents can change the age on the account to under 17 if they want to continue to block content after their kids reach that age. There’s also <b>Hulu Kids</b> for <b>Hulu Plus</b> subscribers",
+          "type": "common"
+        },
+        {
+          "name": "Add-Ons",
+          "description": "HBO, Showtime add-ons",
+          "type": "exclusive"
+        },
+        {
+          "name": "Auto Play",
+          "description": "",
+          "type": "common"
+        },
+        {
+          "name": "Continue Watching",
+          "description": "Migrate your viewing experience seamlessly across devices: start watching on your phone, continue watching on your TV",
+          "type": "common"
+        }
+      ],
+      "news": [
+        {
+          "title": "Hulu Drops Price of Entry-Level Plan to $5.99 Monthly",
+          "article": "Hulu is now offering its cheapest streaming plan, which includes commercials, for <b>$5.99 / month</b> for the first year through Jan. 9, 2018, only to new or returning Hulu subs — a short-term promotion aimed at luring new subs with the kickoff of the fall television and Hulu’s expanded TV library lineup.",
+          "date": "2017-10-09",
+          "icon": "fa fa-money"
+        },
+        {
+          "title": "Hulu Will Launch Support for Amazon’s Alexa This Fall",
+          "article": "Once integration is complete, “You can ask your Alexa Voice Remote to find, launch, and control content on Hulu or pair your Fire TV to an Echo device to enjoy hands-free, far-field voice control to perform an array of actions on their TV including pause, rewind, fast-forward and start watching favorite titles and channels.",
+          "date": "2017-09-27",
+          "icon": "fa fa-plus"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "vod-free",
+      "sid": 50,
+      "name": "Crackle",
+      "url": "http://www.crackle.com",
+      "description": "Crackle offers full-length movies, TV shows and some original programming from loads of genres. Crackle also produced and distributed original programing including Comedians in Cars Getting Coffee, Chosen, Sports Jeopardy!, and full-length feature films Extraction and Joe Dirt 2",
+      "countries": "US, Canada, Australia, Central/South America",
+      "content": "Movies, Shows, Originals",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "XBox",
+        "PlayStation"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "SD, 1 Screen",
+          "misc": "Video resolutions cap out at 480p",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Categories",
+          "description": "On the web app, you can view all of their movies unsorted, or you can drill down by genre, length, or alphabetical order.",
+          "type": "common"
+        },
+        {
+          "name": "Watch Lists",
+          "description": "<b>Queues</b> allow you to organize your favorite videos in collections that you can even share with your friends. You can create multiple queues for all your interests.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 5,
+      "type": "vod-free",
+      "sid": 51,
+      "name": "Tubi TV",
+      "url": "https://tubitv.com",
+      "description": "This free, ad-supported television and movie platform, holds one of the largest library of free TV and movies on the web (40,000+). Tubi TV offers a relatively limited selection of big-budget, well-received films and they also have some decent documentaries, foreign films, and indie films. Ads run for a few minutes at a time and will interrupt your viewing about once every ten minutes.",
+      "countries": "US, Canada",
+      "content": "Movies, Shows, Standup Comedy, Documentaries",
+      "devices": [
+        "Roku Player",
+        "Apple TV",
+        "Fire TV",
+        "Android TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "XBox"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "SD, 1 Screen",
+          "misc": "Video resolutions cap out at 480p",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Categories",
+          "description": "Some categories are unique to TUBI, like <b>Not on Netflix</b> and <b>Highly Rated on Rotten Tomatoes</b> among others.",
+          "type": "common"
+        },
+        {
+          "name": "Continue Watching",
+          "description": "The service will remember where you left off streaming on your device but not when switching devices.",
+          "type": "common"
+        },
+        {
+          "name": "Parental Controls",
+          "description": "Set up your parental controls to block certain content from appearing in your account.",
+          "type": "common"
+        },
+        {
+          "name": "Viewing History",
+          "description": "You can view your history via your Account Settings on Tubi TV",
+          "type": "common"
+        },
+        {
+          "name": "Watch Lists",
+          "description": "You can create <b>Queues</b> of content to watch in the future.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 6,
+      "type": "vod-sub",
+      "sid": 4,
+      "name": "HBO Now",
+      "url": "https://order.hbonow.com/",
+      "description": "A stand-alone, streaming-only service that gives you unlimited access to all of HBO's original programming plus hit movies, documentaries, sports, and exclusive comedy specials.",
+      "countries": "US, Colombia, Mexico",
+      "content": "Originals, Movies, Shows, Documentaries, Sports, Music",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "Android TV",
+        "XBox",
+        "PlayStation",
+        "Tivo"
+      ],
+      "pricing": [
+        {
+          "id": "HBO",
+          "amount": 14.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, 3 Screens",
+          "misc": "Watch content in HD on 3 devices at once",
+          "tootltip": ""
+        },
+        {
+          "id": "HBO - Students",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, 3 Screens",
+          "misc": "Watch content in HD on 3 devices at once",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Onscreen Movie Info",
+          "description": "Using a feature named <b>Extras</b>, HBO gives users access to cast and crew info and video extras (behind-scenes mini-docs, etc)",
+          "type": "exclusive"
+        },
+        {
+          "name": "Parental Controls",
+          "description": "Restrict what can be watched based on industry-standard movie and TV ratings. Once set, TV shows and movies with ratings above your limits can't be played. Kids Lock (for mobile devices) - keeps tiny fingers and eyeballs confined to the Kids section and makes search unavailable",
+          "type": "common"
+        },
+        {
+          "name": "Continue Watching",
+          "description": "When you watch a show or movie, HBO NOW keeps track of your progress. If you stop watching and then later play the same video, HBO NOW remembers your progress and starts playing where you left off",
+          "type": "common"
+        },
+        {
+          "name": "Categories",
+          "description": "You can browse the categories of videos to find what you need. Some videos might appear in more than one category",
+          "type": "common"
+        },
+        {
+          "name": "Watch Lists",
+          "description": "A list of shows and movies that you've saved to watch at another time",
+          "type": "common"
+        }
+      ],
+      "news": [
+        {
+          "title": "Watch FREE for 1 month",
+          "article": "Watch original series, hit movies, talk shows, news, and more. No TV package required. Free for 1 month, then $14.99/month. Cancel anytime. To start watching HBO, download the HBO NOW app on your favorite device. Learn more about HBO NOW",
+          "date": "2017-10-10",
+          "icon": "fa fa-money"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "vod-sub",
+      "sid": 5,
+      "name": "SHOWTIME",
+      "url": "http://www.showtime.com/",
+      "description": "Launched in July, 2015 as a standalone offering, SHOWTIME offers a back catalog of episodes of various past and present Showtime original series, feature films, documentaries, sports events and analysis programs.",
+      "countries": "US",
+      "content": "Originals, Movies, Shows, Documentaries, Sports",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "Android TV"
+      ],
+      "pricing": [
+        {
+          "id": "Monthly",
+          "amount": 10.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, 3 Screens",
+          "misc": "Watch on 3 devices at once",
+          "tootltip": ""
+        },
+        {
+          "id": "Yearly",
+          "amount": 109.9,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, 3 Screens",
+          "misc": "Watch on 3 devices at once",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Offline Viewing",
+          "description": "Download full episodes and movies to your favorite mobile devices to watch offline later.",
+          "type": "common"
+        },
+        {
+          "name": "Continue Watching",
+          "description": "<b>Play Shifting</b> lets you resume watching where you left off on any device",
+          "type": "common"
+        },
+        {
+          "name": "Categories",
+          "description": "",
+          "type": "common"
+        },
+        {
+          "name": "Watch Lists",
+          "description": "To organize and easily keep track of your favorite programs while they are available for viewing on SHOWTIME, use <b>My List</b>.",
+          "type": "common"
+        }
+      ],
+      "news": [
+        {
+          "title": "Showtime Price Deals",
+          "article": "If you already have Amazon Prime or subscribe to Hulu, then you can add Showtime as a premium channel. Showtime costs <b>$8.99/mo</b> on both <b>Amazon Prime</b> and <b>Hulu</b>. <b>DIRECTV NOW</b> has also launched Showtime, available as an add-on for <b>$8/mo</b>. This will include Showtime East and Showtime Video On Demand.",
+          "date": "2017-09-17",
+          "icon": "fa fa-money"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "vod-sub",
+      "sid": 6,
+      "name": "Starz",
+      "url": "https://www.starz.com/billing/create-account?TID=",
+      "description": "In 2016, Starz launched a standalone subscription service to compete with HBO Now, and Showtime. It started off with a library including network originals (Outlander and Power) and a slate of movies. Starz estimates that the app is booting up with about <b>1,600 series episodes</b> and <b>850 movies</b>.",
+      "countries": "US",
+      "content": "Originals, Movies, Shows, Documentaries",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "Android TV",
+        "XBox"
+      ],
+      "pricing": [
+        {
+          "id": "Monthly",
+          "amount": 8.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, 4 Screens",
+          "misc": "Watch content in HD on 4 devices at once",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Offline Viewing",
+          "description": "You can download select titles for watching later, without an internet connection. Titles downloaded will auto-delete after two weeks.",
+          "type": "common"
+        },
+        {
+          "name": "Continue Watching",
+          "description": "You can play, pause, and continue watching on any other device.",
+          "type": "common"
+        },
+        {
+          "name": "Categories",
+          "description": "",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 9,
+      "type": "vod-free",
+      "sid": 52,
+      "name": "Shout! Factory TV",
+      "url": "http://www.shoutfactorytv.com/",
+      "description": "This channel offers a blend of full-length television shows, movies, specials, behind-the-scenes features as well as live streaming events and original content. It offers a stroll down memory lane for those of you who want to relive those TV shows and movies you loved, or at least watched, years ago.",
+      "countries": "US, Canada",
+      "content": "Movies, Shows, Originals, Live Events",
+      "devices": [
+        "Roku Player",
+        "Apple TV",
+        "Fire TV",
+        "Pluto TV",
+        "Twitch"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "SD",
+          "misc": "Highest quality video available for all titles",
+          "tootltip": ""
+        },
+        {
+          "id": "Monthly",
+          "amount": 2.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "SD",
+          "misc": "Ad-free as an Amazon Channel subscription",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Categories",
+          "description": "",
+          "type": "common"
+        },
+        {
+          "name": "Channel Add-On",
+          "description": "Available as an <b><a href='https://www.amazon.com/gp/video/channels/ref=atv_channels?ie=UTF8&benefitID=shoutfactory&ref_=atv_channels_mig' target='blank'>Amazon Channel</a></b> subscription for <b>$2.99/month</b>, this service can actually be ad-free. To test it, <a href='https://www.amazon.com/gp/video/channels/ref=atv_channels?ie=UTF8&benefitID=shoutfactory&ref_=atv_channels_mig' target='blank'> sign-up for a free 7-day trial.</a>",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 10,
+      "type": "vod-free",
+      "sid": 53,
+      "name": "SnagFilms",
+      "url": "http://www.snagfilms.com/",
+      "description": "SnagFilms is a free, ad-supported service showing over 5,000 movies, TV show episodes, unique indie films, exclusive original comedy shorts and lots of documentaries and independent films. There aren't a lot of advertisements although there’s no indication where they are placed within a video but, there are plenty of high-quality movies to stream in HD.",
+      "countries": "US, Canada, UK, Australia, Others",
+      "content": "Movies, Shows, Documentaries, Originals",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "Android TV",
+        "XBox",
+        "PlayStation"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD",
+          "misc": "Many programmes are available in 720p or 1080p",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Categories",
+          "description": "Genres include Award Winning, Korean Drama, Crime, African Movies, Documentary, Foreign, Biography, Faith & Spirituality, Celebrity, Sci-Fi, Drama, Kids & Family, Politics, Romance, Thrillers, and more.",
+          "type": "common"
+        },
+        {
+          "name": "Watch Lists",
+          "description": "Add movies to your queue to watch later",
+          "type": "common"
+        },
+        {
+          "name": "Recommendations",
+          "description": "Recommendations to help choose movies you might be interested in and, there's also a section for new and popular movies so you can stay up to date with what others are watching.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 11,
+      "type": "vod-sub",
+      "sid": 7,
+      "name": "ACORN tv",
+      "url": "https://signup.acorn.tv/createaccount.html",
+      "description": "Although not very well known, ACORN tv streams world-class mysteries, dramas, comedies, movies and documentaries from Britain and beyond. Binge-watch a classic series or discover your new favorite show among dozens of programs available exclusively on Acorn TV.",
+      "countries": "US, Canada",
+      "content": "Shows, Movies, Documentaries, Originals",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick"
+      ],
+      "pricing": [
+        {
+          "id": "Monthly",
+          "amount": 4.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD",
+          "misc": "Many programmes are available in HD",
+          "tootltip": ""
+        },
+        {
+          "id": "Yearly",
+          "amount": 49.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD",
+          "misc": "Many programmes are available in HD",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Viewing History",
+          "description": "",
+          "type": "common"
+        },
+        {
+          "name": "Categories",
+          "description": "Navigate shows and movies by Genres or browse the current month's offerings, check out what's coming next month, and see what's leaving soon.",
+          "type": "common"
+        },
+        {
+          "name": "Watch Lists",
+          "description": "",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 12,
+      "type": "vod-sub",
+      "sid": 8,
+      "name": "BritBox",
+      "url": "https://www.britbox.com/register",
+      "description": "The BBC and ITV have banded together to launch their own subscription streaming service in the US. BritBox claims to offer the \"biggest\" streaming collection of British TV shows from the two major British broadcasters for American viewers. The bulk of the shows fall under either the <b>Drama</b> or <b>Comedy</b> categories in which it excels in its selection.",
+      "countries": "US",
+      "content": "Shows",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Chromecast",
+        "Roku Stick"
+      ],
+      "pricing": [
+        {
+          "id": "Monthly",
+          "amount": 6.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, multiple Screens",
+          "misc": "Many programmes are available in HD",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Parental Controls",
+          "description": "Any viewer who wants to watch a programme that is restricted will be asked to enter the PIN before they can watch.",
+          "type": "common"
+        },
+        {
+          "name": "Categories",
+          "description": "",
+          "type": "common"
+        },
+        {
+          "name": "Watch Lists",
+          "description": "",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 13,
+      "type": "vod-free",
+      "sid": 54,
+      "name": "CW Seed",
+      "url": "http://www.cwseed.com/",
+      "description": "This US free / ad-supported service claims to be the digital home for comedy, animation, and hundreds of hours of modern classics. It hosts a small collection of broadcast TV shows, such as V, Vixen, Constantine, and Whose Line Is It Anyway, plus some exclusive online-only material like JoJoHead and I Ship It but, almost no CW content (for that, go to cwtv.com).",
+      "countries": "US",
+      "content": "Shows, Originals",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "XBox"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD",
+          "misc": "Many programmes are available in HD",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Continue Watching",
+          "description": "It’ll remember where you are in an episode, but not what episode you are on.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 18,
+      "type": "vod-free",
+      "sid": 55,
+      "name": "Funny Or Die",
+      "url": "http://www.funnyordie.com",
+      "description": "If you are the kind of person who loves to watch hilarious videos online every day then this service is a must. Currently one of the premier comedy services, Funny or Die hosts one-off videos, ongoing series and a rotating cast of celebrity guest stars, from Bill Nye to Jennifer Lawrence to Samuel L. Jackson. ",
+      "countries": "US",
+      "content": "Shows, Originals, User Generated",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD",
+          "misc": "Many programmes are available in HD",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Vote Based Ranking",
+          "description": "<b>Immortal Ranking</b> - Unlike other viral video sites, members of Funny Or Die are encouraged to vote on videos which they view, with the options of <b>Funny</b> or <b>Die</b>. If the video receives an 80% or greater <b>Funny</b> rating after 100,000 views, it gets an <b>Immortal</b> ranking. If the video receives a 20% or less <b>Funny</b> rating after 1,000 views, it is relegated to the Crypt section of the site.",
+          "type": "exclusive"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 19,
+      "type": "vod-free",
+      "sid": 56,
+      "name": "Popcorn Flix",
+      "url": "http://www.popcornflix.com/",
+      "description": "The free, ad-supported service hosts full-length movies, documentaries, foreign films and some original content including web series (webisodes) and film school originals. The ads are pretty short and are running every 15 minutes or so. It’s also worth noting that Popcornflix offers a separate kid-friendly app called PopcornflixKids.",
+      "countries": "US, Canada, UK, Australia, Others",
+      "content": "Movies, Shows, Documentaries, Originals",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "XBox",
+        "PlayStation"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "SD",
+          "misc": "Streaming is mostly SD",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Categories",
+          "description": "Within each <b>genre</b>, you can sort those films by most popular or by title. There's also a Most Popular and New Arrivals link in the menu that let you view all the popular and new movies regardless of the genre.",
+          "type": "common"
+        },
+        {
+          "name": "Parental Controls",
+          "description": "Popcornflix offers a separate kid-friendly app called <b>PopcornflixKids</b>.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 20,
+      "type": "vod-free",
+      "sid": 57,
+      "name": "PBS Kids",
+      "url": "http://pbskids.org/",
+      "description": "This educational service designed for kids 4 and up, is the home base for all of PBS Kids’ offerings. The app features games, videos, and other activities that center on popular PBS live-action and animated show characters such as Curious George, Noah and Thomas. The colorful interface is easy for kids to use, with large buttons and pictures of their favorite characters.",
+      "countries": "US",
+      "content": "Games, Cartoons",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Android TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "XBox"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "SD",
+          "misc": "Streaming is mostly SD; One code can only be used once, and for one device.",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Integrated Games",
+          "description": "A unique feature enabling children to toggle between a PBS KIDS show and an activity that extends learning – all in one seamless digital experience. The live stream and games feature is grounded in research demonstrating that measurable gains in learning are achieved when children engage with PBS KIDS content on multiple platforms.",
+          "type": "exclusive"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 21,
+      "type": "vod-free",
+      "sid": 58,
+      "name": "Vevo",
+      "url": "https://www.vevo.com/",
+      "description": "Vevo is supposed to be kind of like Hulu television streaming, but for music videos (ad-supported). A more premium subscription product could be introduced in the future. Vevo has about 160000+ music videos, original series, behind-the-scenes footage, live performances interviews with artists and exclusive original programming.",
+      "countries": "US, Canada, UK, Australia, Others",
+      "content": "Videos",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Android TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "XBox",
+        "PlayStation",
+        "Hopper"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD",
+          "misc": "Streaming is mostly HD",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Watch Lists",
+          "description": "You can watch videos in sets called <b>playlists</b>. Rather than clicking around one by one, you can load any Vevo playlist and enjoy watching multiple videos in a row. Finally, you can create and save your own personalized playlists.﻿",
+          "type": "common"
+        },
+        {
+          "name": "App Integration",
+          "description": "Vevo can match the artists you have in your <b>iTunes</b> library with the ones that are stored in the Vevo library so that playlists can be created based on those matches.",
+          "type": "exclusive"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 14,
+      "type": "vod-sub",
+      "sid": 9,
+      "name": "MUBI",
+      "url": "https://mubi.com/",
+      "description": "The streaming service Mubi introduces <b>a new movie to its subscribers every day</b>, which you have access to for 30 days. It also includes festival gems and hard-to-find masterpieces. MUBI is accessible in US, Australia, Canada, UK and many other countries on multiple devices.",
+      "countries": "US, Canada, UK, Australia, Others",
+      "content": "Movies",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "Android TV",
+        "PlayStation"
+      ],
+      "pricing": [
+        {
+          "id": "Monthly",
+          "amount": 5.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, 2 Screens",
+          "misc": "Watch on up to 5 devices, 2 screens at the same time",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Offline Viewing",
+          "description": "You can temporarily download our films via MUBI's Android and iOS mobile apps and keep them on your device for offline viewing",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 15,
+      "type": "vod-sub",
+      "sid": 10,
+      "name": "FANDOR",
+      "url": "https://www.fandor.com/",
+      "description": "Similar in concept to Mubi.com, Fandor offers <b>curated films</b> for real movie buffs. It also lets you create movie lists and share them with friends. Its library includes film titles you'd be unlikely to find on Netflix, everything from silent-film classics to B-grade horror flicks.",
+      "countries": "US, Canada",
+      "content": "Movies",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick"
+      ],
+      "pricing": [
+        {
+          "id": "Monthly",
+          "amount": 10,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, Unlimitted Screens",
+          "misc": "Some HD titles, Unlimitted Screens",
+          "tootltip": ""
+        },
+        {
+          "id": "Yearly",
+          "amount": 90,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, Unlimitted Screens",
+          "misc": "Some HD titles, Unlimitted Screens",
+          "tootltip": ""
+        },
+        {
+          "id": "Edu",
+          "amount": 5,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, Unlimitted Screens",
+          "misc": "50% discount for students and educators",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Viewing History",
+          "description": "",
+          "type": "common"
+        },
+        {
+          "name": "Recommendations",
+          "description": "",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 16,
+      "type": "vod-sub",
+      "sid": 11,
+      "name": "Seeso",
+      "url": "https://www.seeso.com/",
+      "description": "Seeso is something of a unique service that offers only one genre. It has an ad-free extensive collection of hand-picked <b>comedy</b> comprised of hilarious, never-before-seen originals, quotable classics, next-day TV, hours of stand-up specials, bingeable library shows, and much more.",
+      "countries": "US",
+      "content": "Shows, Originals",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "XBox"
+      ],
+      "pricing": [
+        {
+          "id": "Monthly",
+          "amount": 3.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, Unlimitted Screens",
+          "misc": "2 concurrent logins and unlimited concurrent streams",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Viewing History",
+          "description": "",
+          "type": "common"
+        },
+        {
+          "name": "Parental Controls",
+          "description": "Allow you to establish the maturity level of the content available in your account.",
+          "type": "common"
+        },
+        {
+          "name": "Auto Play",
+          "description": "Keeps your playlist or the featured playlist running, one video after another",
+          "type": "common"
+        },
+        {
+          "name": "Categories",
+          "description": "",
+          "type": "common"
+        },
+        {
+          "name": "Watch Lists",
+          "description": "Use <b>The Playlist</b> to have your selected videos play automatically every time that you access the site. You can add your own favorite episodes.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 17,
+      "type": "vod-sub",
+      "sid": 12,
+      "name": "Shudder",
+      "url": "http://shudder.com/",
+      "description": "Like Seeso, Shudder (an AMC product) is focused on delivering films of one genre only - <b>Horror</b>. It is devoted exclusively to things that go bump in the night offering 800 films+, a growing, ghoulish curated library of horror films from around the world and across the decades.",
+      "countries": "US, Canada, UK, Ireland",
+      "content": "Movies",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Chromecast",
+        "Roku Stick",
+        "Android TV",
+        "XBox"
+      ],
+      "pricing": [
+        {
+          "id": "Monthly",
+          "amount": 4.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, Unlimitted Screens",
+          "misc": "Some HD Content. Available also as an Amazon Channel",
+          "tootltip": ""
+        },
+        {
+          "id": "Yearly",
+          "amount": 47.88,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, Unlimitted Screens",
+          "misc": "Some HD Content",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Categories",
+          "description": "Shudder as numerous movie <b>collections</b> to choose from including a number of guest curators and their favorites.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 100,
+      "type": "vod-tv",
+      "sid": 1,
+      "name": "Sling TV",
+      "url": "https://www.sling.com/service",
+      "description": "Sling TV allows subscribers to watch a collection of live and on-demand TV channels on their TVs, computers or mobile devices. This is live TV, just like a cable or satellite TV service, except it's delivered over the internet, providing live channels including ESPN, AMC, TNT, CNN and Disney, as well as some on-demand content, at a fraction of a price compared to standard pay TV packages, with no contract or commitment.",
+      "countries": "",
+      "content": "",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "AirTV Player",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "Android TV",
+        "XBox",
+        "Hopper",
+        "Tivo",
+        "Channel Master"
+      ],
+      "pricing": [
+        {
+          "id": "Orange",
+          "amount": 20,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "30+ channels, 1 Screen",
+          "misc": "No simultaneous viewing",
+          "tootltip": ""
+        },
+        {
+          "id": "Blue",
+          "amount": 25,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "45+ channels, 3 Screens",
+          "misc": "No ESPN channels. Watch content on 3 devices at once",
+          "tootltip": ""
+        },
+        {
+          "id": "Orange+Blue",
+          "amount": 40,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "60+ channels, 3 Screens",
+          "misc": "Includes all the channles from Orange/Blue",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Categories",
+          "description": "Categories include On Now, Guide, Sports, Movies, etc",
+          "type": "common"
+        },
+        {
+          "name": "Channel Guide",
+          "description": "",
+          "type": "common"
+        },
+        {
+          "name": "Cloud DVR",
+          "description": "50 hours of Cloud DVR storage for $5 per month. Record movies, episodes, full series and more.",
+          "type": "common"
+        },
+        {
+          "name": "Favorites",
+          "description": "Customize your favorite channels on Sling TV and launch your favorite Netflix shows and movie using <b>Air TV</b>",
+          "type": "common"
+        },
+        {
+          "name": "Movie Rentals",
+          "description": "Sling TV members get instant access to thousands of digital movies to rent, ranging from newest releases to your favorite classics! The price of our movie rentals generally range between $2.99 to $4.99 per movie. Some rentals are as low as $0.99, and many others are free to Sling TV subscribers!",
+          "type": "common"
+        },
+        {
+          "name": "Search",
+          "description": "",
+          "type": "common"
+        },
+        {
+          "name": "VOD Content",
+          "description": "This feature is offered under the <b>Available Now</b> name. The content and length of time it is available varies by channel. Sling TV offers the ability to replay content that has aired in the past three days on some of the channels.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 101,
+      "type": "vod-tv",
+      "sid": 2,
+      "name": "DirecTV Now",
+      "url": "https://www.directvnow.com/",
+      "description": "AT&T's cable TV alternative is available to anyone across the US (and data-free for AT&T wireless customers). Following in the footsteps of Sling TV and PlayStation Vue, DirecTV Now is slightly more affordable for those who want to cut the cord by offering more channels at lower prices. Add-ons (like HBO, Cinemax, etc) are available at $5 each.",
+      "countries": "",
+      "content": "",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick"
+      ],
+      "pricing": [
+        {
+          "id": "Live A Little",
+          "amount": 35,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "60+ channels, 2 Screens",
+          "misc": "ABC, Fox, NBC, most basic cable channels",
+          "tootltip": ""
+        },
+        {
+          "id": "Just Right",
+          "amount": 50,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "80+ channels, 2 Screens",
+          "misc": "Adds select regional sports networks, ESPN News, more",
+          "tootltip": ""
+        },
+        {
+          "id": "Go Big",
+          "amount": 60,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "100+ channels, 2 Screens",
+          "misc": "Adds NBA TV, NHL Network, FXM, Sundance TV, more",
+          "tootltip": ""
+        },
+        {
+          "id": "Gotta Have It",
+          "amount": 70,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "120+ channels, 2 Screens",
+          "misc": "Adds 8 Starz/Encore channels, Boomerang, El Rey, more",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Categories",
+          "description": "There are Netflix-like categories to help you parse the movie/shows catalog.",
+          "type": "common"
+        },
+        {
+          "name": "Channel Guide",
+          "description": "",
+          "type": "common"
+        },
+        {
+          "name": "Favorites",
+          "description": "You can save DIRECTV NOW channels to a Favorites list. And build a Watchlist of up to 100 titles to watch later.",
+          "type": "common"
+        },
+        {
+          "name": "VOD Content",
+          "description": "Did you miss your favorite show? Catch up on what you missed with <b>72 Hour Rewind</b>. Also, choose from up to 20,000 shows and titles based on your DIRECTV NOW plan. On Demand content is updated constantly and many new shows are available within hours of when they air - subject to network availability.",
+          "type": "common"
+        },
+        {
+          "name": "Cloud DVR",
+          "description": "Coming Soon!",
+          "type": "common"
+        },
+        {
+          "name": "VOD Content ",
+          "description": "Coming Soon!",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 102,
+      "type": "vod-tv",
+      "sid": 3,
+      "name": "PS™Vue",
+      "url": "https://www.playstation.com/en-us/network/vue/",
+      "description": "Sony's PlayStation Vuew is a live streaming TV service with sports, news, and your favorite must-watch shows. It includes premium channels, a powerful cloud DVR, streaming on up to five devices at once and no annual contracts. It's available nationwide in the US, but costs more (and offers live local channels) in seven major cities.",
+      "countries": "",
+      "content": "",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "Android TV",
+        "PlayStation"
+      ],
+      "pricing": [
+        {
+          "id": "Access Slim",
+          "amount": 29.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "45+ channels, 5 Screens",
+          "misc": "ABC, Fox, NBC, ESPN, most basic cable channels",
+          "tootltip": ""
+        },
+        {
+          "id": "Core Slim",
+          "amount": 34.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "60+ channels, 5 Screens",
+          "misc": "More sports networks, Sundance...and more",
+          "tootltip": ""
+        },
+        {
+          "id": "Elite Slim",
+          "amount": 49.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "90+ channels, 5 Screens",
+          "misc": "Adds BBC, even more sports channels...",
+          "tootltip": ""
+        },
+        {
+          "id": "Ultra Slim",
+          "amount": 64.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "100+ channels, 5 Screens",
+          "misc": "Adds Premium Showtime, HBO channels",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Categories",
+          "description": "Some of the available cagetories are: TV Shows, Movies, Sports, News, etc.",
+          "type": "common"
+        },
+        {
+          "name": "Channel Guide",
+          "description": "Use the channel guide to find what's on by the networks you know - no channel numbers to remember.",
+          "type": "common"
+        },
+        {
+          "name": "Cloud DVR",
+          "description": "Capture hundreds of hours of programming so you never miss an episode. Tag your favorite shows; upcoming airings will be automatically saved to the cloud DVR.",
+          "type": "common"
+        },
+        {
+          "name": "Favorites",
+          "description": "You can tag any channel to make it a favorite. Also, any show added to <b>My Shows</b> will be labeled as <b>DVR</b>.",
+          "type": "common"
+        },
+        {
+          "name": "VOD Content ",
+          "description": "You can pause <b>Live TV</b> for a 5 minute window. On some shows, you can rewind or fast forward. When using <b>Live TV</b>, shows/channels are sorted by their popularity at the moment.",
+          "type": "common"
+        },
+        {
+          "name": "Search",
+          "description": "There are a few primary tools to find the content you're looking for, Explore, Search and Guide. Search by show name, or explore by category, genres and more.",
+          "type": "common"
+        },
+        {
+          "name": "Multi-View",
+          "description": "You can choose up to three live programs to watch on the same screen.",
+          "type": "exclusive"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 103,
+      "type": "vod-tv",
+      "sid": 4,
+      "name": "YouTube TV",
+      "url": "https://tv.youtube.com/welcome/",
+      "description": "Google’s streaming service is a now available in select US cities, streaming as many as 40 channels. It does not require a contract or long-term commitment, comes with many of the same key channels available on other platforms, such as ABC, CBS, Fox, NBC, Comcast SportsNet, ESPN, Syfy and the Disney Channel. Add-ons such as Showtime and local news programming will also be available.",
+      "countries": "",
+      "content": "",
+      "devices": [
+        "Chromecast",
+        "Android TV"
+      ],
+      "pricing": [
+        {
+          "id": "Package",
+          "amount": 35,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "40+ channels, 6 profiles, 3 Screens",
+          "misc": "ABC, Fox, NBC, CNBC, USA, ESPN and more",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Add-Ons",
+          "description": "<b>Showtime</b> for $11/mo and <b>Fox Soccer Plus</b> for $15/mo.",
+          "type": "common"
+        },
+        {
+          "name": "Categories",
+          "description": "Browse networks to see programs available on different networks. Browse shows and movies by genre, like action, animation, or comedy.",
+          "type": "common"
+        },
+        {
+          "name": "Channel Guide",
+          "description": "",
+          "type": "common"
+        },
+        {
+          "name": "Cloud DVR",
+          "description": "No storage limits. Record all your shows simultaneously. Recording are kept for <b>9 months</b>. You can typically fast forward through ads on recorded programs once they've aired on live TV.",
+          "type": "common"
+        },
+        {
+          "name": "Favorites",
+          "description": "Adding a program to your library means that all current and upcoming airings will be recorded. Add your preferred teams to your library, and any games available in your area will be recorded across any of the networks they air on. For one-off events, like awards shows, simply add the event to your library.",
+          "type": "common"
+        },
+        {
+          "name": "VOD Content ",
+          "description": "Many networks provide recent episodes of shows, movies, and more on-demand. You typically cannot fast-forward through video on demand ads.",
+          "type": "common"
+        },
+        {
+          "name": "YouTube Videos",
+          "description": "If you're a YouTube Red member, you won't see ads on any YouTube videos in YouTube TV. If you’re not a YouTube Red member, you will see ads on YouTube videos, which allows us to support the creators of those videos.",
+          "type": "exclusive"
+        },
+        {
+          "name": "Search",
+          "description": "You can search for shows, movies, sports teams, events, actors, genres, and networks.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 104,
+      "type": "vod-tv",
+      "sid": 7,
+      "name": "Pluto TV",
+      "url": "http://corporate.pluto.tv/",
+      "description": "Pluto TV is one of the more unique OTT services available today. It’s a free ad-supported service, like Crackle, and it uses a live TV channel model, like Sling TV or PlayStation Vue. But Pluto TV’s channels are not familiar cable properties like the ones on Sling TV. Instead, they’re mostly curated 100+ channels assembled by Pluto TV employees from online videos and licensed content.",
+      "countries": "",
+      "content": "",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "Android TV"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "75+ channels",
+          "misc": "CNBC, Sky News, Bloomberg, NASA TV, etc",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Channel Guide",
+          "description": "TV Guide lets you surf channels, giving you the same flip-through-channels experience usually provided by CableTV providers.",
+          "type": "common"
+        },
+        {
+          "name": "VOD Content ",
+          "description": "Pluto TV will expand its offering of live streaming channels to include a large library of on-demand movies and television shows. The launch of on-demand content comes after the company announced licensing deals with Lionsgate, MGM and Warner Bros.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 105,
+      "type": "vod-tv",
+      "sid": 5,
+      "name": "CBS All Access",
+      "url": "https://www.cbs.com/all-access/",
+      "description": "Primarily, the service provides subscribers with direct access to on-demand streaming of select CBS TV shows. There are more than 8,500 episodes available to stream like NCIS, The Young and the Restless and Madam Secretary! In addition, there is also a CBS live stream with this service for about 50% of US markets which is super useful for sports fans and other people who like to watch live TV.",
+      "countries": "",
+      "content": "",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "Android TV",
+        "XBox",
+        "PlayStation"
+      ],
+      "pricing": [
+        {
+          "id": "Limited Commercials",
+          "amount": 5.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, 2 Screens",
+          "misc": "2 simultaneous streams (measured across all content available on CBS All Access) at any time",
+          "tootltip": ""
+        },
+        {
+          "id": "Commercial Free",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, 2 Screens",
+          "misc": "2 simultaneous streams (measured across all content available on CBS All Access) at any time",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Categories",
+          "description": "On the Main Screen, you can select from CBS All Access, Shows and Live TV, all of which have subcategories to choose from.",
+          "type": "common"
+        },
+        {
+          "name": "Add-Ons",
+          "description": "<b>Showtime</b> for $9/mo",
+          "type": "common"
+        },
+        {
+          "name": "VOD Content",
+          "description": "Access 8500+ episodes of hit TV shows – live and on demand! <b>Live TV</b> is the ability to stream your local CBS station's programming (including NFL games!) in real time.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 106,
+      "type": "vod-tv",
+      "sid": 6,
+      "name": "FuboTV",
+      "url": "https://www.fubo.tv/signup",
+      "description": "fuboTV is a sports-centric Internet TV streaming service with the world's most popular live sports and entertainment content. The service currently available in the US and Canada only, offers access to national and regional networks. On top of the 60+ subscription based channels, there are many other packages available at additional cost.",
+      "countries": "",
+      "content": "",
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick"
+      ],
+      "pricing": [
+        {
+          "id": "fubo Premier",
+          "amount": 34.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, 2 Screens",
+          "misc": "One fuboTV subscription allows you to stream from two devices at a time",
+          "tootltip": ""
+        },
+        {
+          "id": "fubo Latino",
+          "amount": 14.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, 2 Screens",
+          "misc": "One fuboTV subscription allows you to stream from two devices at a time",
+          "tootltip": ""
+        },
+        {
+          "id": "fubo Portuges",
+          "amount": 19.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "",
+          "limits": "HD, 2 Screens",
+          "misc": "One fuboTV subscription allows you to stream from two devices at a time",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Categories",
+          "description": "Main categories include Sports, Entertainement, Guide and My DVR. The Sports Category includes sub-categories by Sport like Soccer, Football, Basketball, etc.",
+          "type": "common"
+        },
+        {
+          "name": "Channel Guide",
+          "description": "Mimics a traditional pay TV interface.",
+          "type": "common"
+        },
+        {
+          "name": "Cloud DVR",
+          "description": "You can record any live programs on most channels either before or during the program’s airing. Your DVR becomes available 30 minutes after the live program ends and expires after 10 days. Your fuboTV subscription gives you up to 10 DVR slots at a time. This includes both recorded and scheduled DVRs.",
+          "type": "common"
+        },
+        {
+          "name": "VOD Content ",
+          "description": "",
+          "type": "common"
+        }
+      ],
+      "news": []
+    }
+  ]
+}

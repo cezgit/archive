@@ -1,0 +1,109 @@
+"pros": [
+  {
+    "name"": "",
+    "description"": "",
+    "type": ""
+  },
+  {
+    "name"": "",
+    "description"": "",
+    "type": ""
+  }
+],
+"cons": [
+  {
+    "name"": "",
+    "description"": "",
+    "type": ""
+  },
+  {
+    "name"": "",
+    "description"": "",
+    "type": ""
+  }
+],
+
+
+"features": [
+  {
+    "category": "Video Streaming",
+    "values": [
+      {
+        "name": "quality",
+        "value": "4K/UHD",
+        "description": "Some content is available for streaming in 4K/UHD",
+        "type": "common"
+      }
+    ]
+  },
+  {
+    "category": "Content Organization",
+    "values": [
+      {
+        "name": "categories",
+        "value": "Categories",
+        "description": "Netflix has a huge list of categories that go far beyond the usual Action, Comedy, Drama, Sci-Fi and the like. It also has a secret master list of categories that are even more specialized which can be accessed using <b>codes</b> at <a href='http://www.netflix.com/browse/genre/25804' target=_blank>http://www.netflix.com/browse/genre/###</a>",
+        "type": "common"
+      },
+      {
+        "name": "profiles",
+        "value": "Profiles",
+        "description": "<b>Create 5 profiles per account</b>, keep recommendations and watch lists separate; separate kids section",
+        "type": "common"
+      },
+      {
+        "name": "history",
+        "value": "Viewing History",
+        "description": "List of previously watched content",
+        "type": "common"
+      },
+      {
+        "name": "watchlists",
+        "value": "Watch Lists",
+        "description": "Create a customized collection of TV shows (<b>MyList</b>) and movies you want to watch as you browse Netflix's catalog",
+        "type": "common"
+      },
+      {
+        "name": "parental",
+        "value": "Parental Controls",
+        "description": "Set a maturity level for a particular profile to control content available for that profile. Or set a 4-digit PIN that must be entered to play any content above a selected maturity level, on any profile",
+        "type": "common"
+      },
+      {
+        "name": "rating",
+        "value": "Rate Content",
+        "description": "Netflix lets you rate content using the <b>thumbs up</b> or <b>thumbs down</b> feature",
+        "type": "common"
+      },
+      {
+        "name": "recommendations",
+        "value": "Recommendations",
+        "description": "Content is suggested based on previous viewing experience and/or user rating",
+        "type": "common"
+      }
+    ]
+  },
+  {
+    "category": "Integrated Features",
+    "values": [
+      {
+        "name": "autoplay",
+        "value": "Auto Play",
+        "description": "Automatically continue watching the next episode or movie",
+        "type": "common"
+      },
+      {
+        "name": "continue",
+        "value": "Continue Watching",
+        "description": "As soon as you start watching, Netflix adds the content to the <b>continue watching</b> listing so that you can watch it later on the same or a different device",
+        "type": "common"
+      },
+      {
+        "name": "download",
+        "value": "Offline Viewing",
+        "description": "Download content offline for viewing without an internet connection",
+        "type": "common"
+      }
+    ]
+  }
+]

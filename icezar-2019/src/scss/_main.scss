@@ -1,0 +1,29 @@
+a {
+  transition: all .25s ease-in-out;
+}
+
+.div-link {
+  cursor: pointer;
+  color: blue
+}
+.div-link:hover {
+  cursor:pointer;
+  color:#444444;
+}
+
+.card-img.full {
+  height: auto;
+  width: auto;
+}
+
+.card-img.half {
+  height: 75%;
+  width: 75%;
+}
+
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 10px;
+}

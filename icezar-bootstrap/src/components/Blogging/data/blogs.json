@@ -1,0 +1,18 @@
+{
+  "blogs": [
+    {
+      "img": "img12.jpg",
+      "imgDesc": "Image Description",
+      "date": "20180420",
+      "title": "Remote workers, here's how to dodge distractions",
+      "description": "<p>We've been working hard with our besties at Reuters to design a new reading experience for Reuters.com.</p>"
+    },
+    {
+      "img": "img17.jpg",
+      "imgDesc": "Image Description",
+      "date": "20180629",
+      "title": "5 basic tips for colors",
+      "description": "<p>Tis the season to be jolly, and Ueno has one more thing to be cheery about in 2017.</p>"
+    }
+  ]
+}

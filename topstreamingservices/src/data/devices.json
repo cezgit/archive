@@ -1,0 +1,742 @@
+{
+    "list": [
+        {
+            "id": 1000,
+            "type": "set-top",
+            "sid": 1,
+            "name": "Apple TV",
+            "url": "https://www.apple.com/apple-tv/",
+            "description": "Apple’s streaming set-top box delivers the most refined video experience today, offering quick and smooth navigation in a simple but powerful interface. It packs one of the best remotes on the market, an excellent Siri voice search, over 1600 video apps to choose from, AirPlay and other powerful features.",
+            "pricing": [
+                {
+                    "id": "Apple TV (4th gen)",
+                    "amount": 149,
+                    "currency": "USD",
+                    "limits": "32 GB",
+                    "misc": "",
+                    "tootltip": ""
+                },
+                {
+                    "id": "Apple TV + (4th gen)",
+                    "amount": 199,
+                    "currency": "USD",
+                    "limits": "64 GB",
+                    "misc": "",
+                    "tootltip": ""
+                }
+            ],
+            "features": [
+              {
+                "name": "Video",
+                "value": "HD - 1080p",
+                "description": "Content Formats: H.264 video, MPEG-4 video",
+                "type": "common"
+              },
+              {
+                "name": "Ports",
+                "value": "USB-C, HDMI, Ethernet",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Remote",
+                "value": "Voice Search (Siri), Mobile App",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Memory",
+                "value": "RAM: 2GB, Internal: 32/64 GB",
+                "description": "The 2 models differentiator is the Internal Memory: 32GB vs 64GB",
+                "type": "common"
+              },
+              {
+                "name": "Audio",
+                "value": "Dolby Digital 5.1, Dolby Digital Plus 7.1",
+                "description": "Content formats: HE-AAC (V1), AAC (16 to 320 Kbps), protected AAC (from iTunes Store), MP3 (16 to 320 Kbps), MP3 VBR, Apple Lossless, AIFF, and WAV",
+                "type": "common"
+              }
+            ],
+            "news": []
+        },
+        {
+            "id": 1001,
+            "type": "set-top",
+            "sid": 2,
+            "name": "Roku Player",
+            "url": "https://www.roku.com/index",
+            "description": "Roku offers a few streaming players (Express(+), Premiere(+), Ultra) priced to match your hardware like tv, audio system and streaming bandwidth. Its top product (the Roku Ultra) offers 4K/HDR support, a remote, more apps, better search and more customization than any other device.",
+            "pricing": [
+                {
+                    "id": "Roku Express",
+                    "amount": 29.99,
+                    "currency": "USD",
+                    "limits": "",
+                    "misc": "",
+                    "tootltip": ""
+                },
+                {
+                    "id": "Roku Express+",
+                    "amount": 39.99,
+                    "currency": "USD",
+                    "limits": "",
+                    "misc": "Works with composite A/V cable connectivity",
+                    "tootltip": ""
+                },
+                {
+                    "id": "Roku Premiere",
+                    "amount": 69,
+                    "currency": "USD",
+                    "limits": "",
+                    "misc": "HD & 4K",
+                    "tootltip": ""
+                },
+                {
+                    "id": "Roku Premiere+",
+                    "amount": 79,
+                    "currency": "USD",
+                    "limits": "",
+                    "misc": "HD, 4K & HDR, Micro SD, Enhanced Remote",
+                    "tootltip": ""
+                },
+                {
+                    "id": "Ultra",
+                    "amount": 109,
+                    "currency": "USD",
+                    "limits": "",
+                    "misc": "HD, 4K & HDR, MicroSD, USB, Voice Search, Gaming Buttons, Remote Finder",
+                    "tootltip": ""
+                }
+            ],
+            "features": [
+              {
+                "name": "Video",
+                "value": "4K/UHD, HD - 1080p",
+                "description": "Content formats: MKV (H.264), MP4 (H.264), MOV (H.264), WMV (VC-1, firmware 3.1 only), etc",
+                "type": "common"
+              },
+              {
+                "name": "Ports",
+                "value": "USB, HDMI, Ethernet, MicroSD slot, Optical digital audio output",
+                "description": "MicroSD slot - <b>Premere+</b> and <b>Ultra</b>",
+                "type": "common"
+              },
+              {
+                "name": "Remote",
+                "value": "Voice Search, Remote Finder, Mobile App, Heahphone Jack, Night Listening Mode",
+                "description": "Heahphone Jack - <b>Premiere+</b> and <b>Ultra</b>",
+                "type": "common"
+              },
+              {
+                "name": "Memory",
+                "value": "RAM: 512MB, Internal: 1GB",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Audio",
+                "value": "Dolby Digital 5.1, DTS",
+                "description": "Dolby Digital 5.1 and DTS pass through via HDMI. The <b>Ultra</b> device supports Dolby Digital decode via HDMI and optical",
+                "type": "common"
+              }
+            ],
+            "news": []
+        },
+        {
+            "id": 1002,
+            "type": "set-top",
+            "sid": 3,
+            "name": "Fire TV",
+            "url": "https://www.amazon.com/Amazon-Fire-TV-Streaming-Media-Player/dp/B00U3FPN4U",
+            "description": "The Amazon’s streaming player has a sleek, responsive interface although not as clean as Apple’s TV. It packs a remote integrated with Alexa’s voice digital assistant which can answer to various queries. It's capable of streaming in 4K and it also offers hundreds of games, expandable storage via SD card and an optional Gaming Edition with a Bluetooth controller.",
+            "pricing": [
+                {
+                    "id": "FireTV 4K",
+                    "amount": 89.99,
+                    "currency": "USD",
+                    "limits": "",
+                    "misc": "",
+                    "tootltip": ""
+                },
+                {
+                    "id": "FireTV w. Antenna Bundle",
+                    "amount": 99.99,
+                    "currency": "USD",
+                    "limits": "",
+                    "misc": "Includes AmazonBasics Ultra Thin Indoor HD TV Antenna (35 Mile)",
+                    "tootltip": ""
+                }
+            ],
+            "features": [
+              {
+                "name": "Video",
+                "value": "4K/UHD, HD - 1080p",
+                "description": "Content Formats: H.265, H.264",
+                "type": "common"
+              },
+              {
+                "name": "Ports",
+                "value": "USB, HDMI, Ethernet, MicroSD slot, DC Jack",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Remote",
+                "value": "Voice Search (Alexa), Mobile App",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Memory",
+                "value": "RAM: 2GB, Internal: 8GB",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Audio",
+                "value": "2ch stereo, Dolby Digital 5.1, HDMI audio pass through up to 7.1",
+                "description": "Content Formats: AAC-LC, AC3, eAC3 (DD+), FLAC, MP3, PCM/Wave, Vorbis, Dolby Atmos (EC3_JOC)",
+                "type": "common"
+              }
+            ],
+            "news": []
+        },
+        {
+            "id": 1003,
+            "type": "set-top",
+            "sid": 4,
+            "name": "Shield TV",
+            "url": "https://www.nvidia.com/en-us/shield/shield-tv/",
+            "description": "This device claims to have the fastest, highest-quality streaming for movies, shows, and games. It’s all powered by NVIDIA Tegra® X1, the most advanced mobile processor NVIDIA has ever built. You can also use it to control your lights, media, thermostat. If that wasn’t enough, it comes with a built-in Plex Media Server, letting you access your media from any device and easily share it with friends and family.",
+            "pricing": [
+                {
+                    "id": "Nvidia Shield (2017)",
+                    "amount": 199.99,
+                    "currency": "USD",
+                    "limits": "16 GB",
+                    "misc": "4K & HDR",
+                    "tootltip": ""
+                },
+                {
+                    "id": "Nvidia Shield Pro (2017)",
+                    "amount": 299.99,
+                    "currency": "USD",
+                    "limits": "500 GB",
+                    "misc": "4K & HDR",
+                    "tootltip": ""
+                }
+            ],
+            "features": [
+              {
+                "name": "Video",
+                "value": "4K/UHD, HD - 1080p, HDR",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Ports",
+                "value": "USB 3, Micro-USB, HDMI, Ethernet, MicroSD slot",
+                "description": "Micro-USB, MicroSD - <b>Shield Pro</b>",
+                "type": "common"
+              },
+              {
+                "name": "Remote",
+                "value": "Voice Search, Headphone Jack, Mobile App",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Memory",
+                "value": "RAM: 3GB, Internal: 16GB vs. 500GB (Shield Pro)",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Audio",
+                "value": "Dolby Atmos, DTS-X",
+                "description": "Dolby Atmos and DTS-X surround sound over HDMI; HR audio playback up to 24-bit/192kHz over HDMI",
+                "type": "common"
+              }
+            ],
+            "news": []
+        },
+        {
+            "id": 1004,
+            "type": "set-top",
+            "sid": 5,
+            "name": "Mi Box",
+            "url": "http://www.mi.com/en/mibox/",
+            "description": "With a sleek and innovative design, Mi Box packs a powerful 4K/HDR Android TV streaming device. It comes with a Bluetooth voice enabled remote, 8 GB Flash storage, HDMI and USB ports as well as AV audio support. Some of the more interesting features include recommendations based on your personal Youtube and Google Play preferences, the ability to take calls without interrupting what’s playing and high speed streaming including HD playback.",
+            "pricing": [
+                {
+                    "id": "Mi Box Android TV Box",
+                    "amount": 69,
+                    "currency": "USD",
+                    "limits": "",
+                    "misc": "4K & HDR, 8 GB Flash, HDMI/USB/AV ports",
+                    "tootltip": ""
+                }
+            ],
+            "features": [
+              {
+                "name": "Video",
+                "value": "4K/UHD, HD - 1080p",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Ports",
+                "value": "USB, HDMI, Optical digital audio output",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Remote",
+                "value": "Voice Search",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Memory",
+                "value": "RAM: 2GB, Internal: 8GB",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Audio",
+                "value": "Dolby Audio, DTS",
+                "description": "DTS 2.0+ Digital Out, Dolby Digital Plus Up to 7.1 pass through",
+                "type": "common"
+              }
+            ],
+            "news": []
+        },
+        {
+            "id": 1008,
+            "type": "set-top",
+            "sid": 6,
+            "name": "AirTV Player",
+            "url": "https://www.airtv.net/",
+            "description": "By itself, this streaming player from Dish ($100) is just an average Android TV box with a somewhat cumbersome interface to mostly benefit Sling TV users. However, its usefulness increases greatly with the addition of the AirTV Adapter ($40). Once connected through USB with the HD OTA antenna plugged in, you’ll be able to get local channels like ABC, CBS, NBC and FOX in HD  alongside Netflix, Sling TV and other entertainment sources on your AirTV Player.",
+            "pricing": [
+                {
+                    "id": "AirTV Player + Adapter",
+                    "amount": 129.99,
+                    "currency": "USD",
+                    "limits": "",
+                    "misc": "Includes voice capable Bluetooth Remote<br/> and $50 of Sling TV programming credits",
+                    "tootltip": ""
+                },
+                {
+                    "id": "AirTV Player",
+                    "amount": 99.99,
+                    "currency": "USD",
+                    "limits": "",
+                    "misc": "Includes voice capable Bluetooth Remote<br/> and $50 of Sling TV programming credits",
+                    "tootltip": ""
+                },
+                {
+                    "id": "AirTV Adapter",
+                    "amount": 39.99,
+                    "currency": "USD",
+                    "limits": "",
+                    "misc": "",
+                    "tootltip": ""
+                }
+            ],
+            "features": [
+              {
+                "name": "Video",
+                "value": "4K/UHD, HD - 1080p",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Ports",
+                "value": "USB (2), HDMI, Ethernet, Optical digital audio output",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Remote",
+                "value": "Voice Search",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Memory",
+                "value": "RAM: 2GB, Internal: 8GB",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Audio",
+                "value": "Dolby Audio",
+                "description": "Dolby Digital, Dolby Digital Plus",
+                "type": "common"
+              }
+            ],
+            "news": []
+        },
+        {
+            "id": 1007,
+            "type": "platform",
+            "sid": 7,
+            "name": "Android TV",
+            "url": "",
+            "description": "",
+            "pricing": [],
+            "features": [],
+            "news": []
+        },
+        {
+            "id": 1020,
+            "type": "media-receiver",
+            "sid": 8,
+            "name": "Fire TV Stick",
+            "url": "https://www.amazon.com/dp/B00ZV9RDKK/ref=fs_ods_fs_smp_tk",
+            "description": "The Fire TV Stick With Alexa Voice Remote offers enough in the way of features to make it a decent player on the streaming stick market. Once you plug the Fire TV Stick into your HDTV, you’ll start streaming in minutes from services like Netflix, Hulu, HBO NOW, YouTube, Amazon Video, and more. You’ll also be able to watch TV live with subscriptions to Sling TV, DIRECTV NOW, CBS All Access, and others.",
+            "pricing": [
+                {
+                    "id": "Fire TV Stick & Alexa Remote",
+                    "amount": 39.99,
+                    "currency": "USD",
+                    "limits": "",
+                    "misc": "up to 1080p and 60fps, 8 GB Storage",
+                    "tootltip": ""
+                }
+            ],
+            "features": [
+              {
+                "name": "Video",
+                "value": "HD - 1080p",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Remote",
+                "value": "Voice Search (Alexa), Mobile App",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Memory",
+                "value": "RAM: 1GB, Internal: 8GB",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Audio",
+                "value": "Up to 96kHz, 6 channels, 16-bit and 24-bit",
+                "description": "",
+                "type": "common"
+              }
+            ],
+            "news": []
+        },
+        {
+            "id": 1021,
+            "type": "media-receiver",
+            "sid": 9,
+            "name": "Chromecast",
+            "url": "https://www.google.com/intl/en_us/chromecast/?utm_source=chromecast.com",
+            "description": "Chromecast Ultra will let you stream up to 4K Ultra HD & HDR picture quality over your WiFi network. The other Chromecast version supports up to 1080p HD and it’s obviously cheaper. Both of them plug into your TV’s HDMI port and from that point on, you can use your iPhone, iPad, Android device, or laptop to stream thousands of Cast-enabled apps. There’s also an Audio version that plugs into your speaker for streaming music through WiFi.",
+            "pricing": [
+                {
+                    "id": "Chromecast Ultra",
+                    "amount": 59,
+                    "currency": "USD",
+                    "limits": "4K Ultra HD & HDR",
+                    "misc": "",
+                    "tootltip": ""
+                },
+                {
+                    "id": "Chromecast",
+                    "amount": 30,
+                    "currency": "USD",
+                    "limits": "1080p HD",
+                    "misc": "",
+                    "tootltip": ""
+                },
+                {
+                    "id": "Chromecast Audio",
+                    "amount": 30,
+                    "currency": "USD",
+                    "limits": "RCA, 3.5mm, Optical",
+                    "misc": "Connects to Pandora, Google Play Music, Spotify, iHeartRadio and more",
+                    "tootltip": ""
+                }
+            ],
+            "features": [
+              {
+                "name": "Video",
+                "value": "4K/UHD, HD - 1080p",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Ports",
+                "value": "Micro-USB, HDMI, Ethernet",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Remote",
+                "value": "Mobile App",
+                "description": "",
+                "type": "common"
+              }
+            ],
+            "news": []
+        },
+        {
+            "id": 1022,
+            "type": "media-receiver",
+            "sid": 10,
+            "name": "Roku Stick",
+            "url": "https://www.roku.com/products/streaming-stick",
+            "description": "This streaming stick (remote included) connects to your wireless network and your TV. After you create a Roku account you’ll have to sign up for free trials, subscribe, rent or buy. With an intuitive interface, a simple remote, and a convenient mobile app for iOS and Android, this device makes it easy to find what you want to watch.",
+            "pricing": [
+                {
+                    "id": "Roku Stick with Remote",
+                    "amount": 39.99,
+                    "currency": "USD",
+                    "limits": "up to 1080p",
+                    "misc": "",
+                    "tootltip": ""
+                }
+            ],
+            "features": [
+              {
+                "name": "Video",
+                "value": "HD - 1080p",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Ports",
+                "value": "HDMI",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Remote",
+                "value": "Voice Search, Mobile App",
+                "description": "",
+                "type": "common"
+              },
+              {
+                "name": "Audio",
+                "value": "Dolby Audio, DTS",
+                "description": "Digital stereo over HDMI, DTS Digital Surround pass through over HDMI",
+                "type": "common"
+              }
+            ],
+            "news": []
+        },
+        {
+            "id": 1030,
+            "type": "game-console",
+            "sid": 11,
+            "name": "XBox",
+            "url": "https://www.microsoft.com/en-us/store/b/xbox?icid=CNavDevicesXbox",
+            "description": "XBox is also capable of streaming 4K video in HDR. Get access to popular apps on Xbox One, including all your favorites, like Netflix, Hulu, Sling TV, Amazon Video, HBO NOW, Pandora, and more! On Xbox One, you can do two things at once: play a game, watch live TV, Skype, enjoy a movie, or use apps side-by-side, and switch instantly from one to the next with the sound of your voice.",
+            "pricing": [
+                {
+                    "id": "XBox One S",
+                    "amount": 299.99,
+                    "currency": "USD",
+                    "limits": "500GB & 1TB, HDR",
+                    "misc": "",
+                    "tootltip": ""
+                },
+                {
+                    "id": "XBox One X",
+                    "amount": 499.99,
+                    "currency": "USD",
+                    "limits": "1TB, 4K & HDR",
+                    "misc": "",
+                    "tootltip": ""
+                }
+            ],
+            "features": [],
+            "news": []
+        },
+        {
+            "id": 1031,
+            "type": "game-console",
+            "sid": 12,
+            "name": "PlayStation",
+            "url": "https://www.playstation.com/en-us/",
+            "description": "Sony has positioned the PS4 as the ultimate gaming streaming machine, but it's a pretty great device for video and music, too. While it might not be as rich with apps as the Xbox One, there are still plenty of great options for non-gaming entertainment and all of the major apps are available.",
+            "pricing": [
+                {
+                    "id": "PS4",
+                    "amount": 299.99,
+                    "currency": "USD",
+                    "limits": "500GB & 1TB, HDR",
+                    "misc": "",
+                    "tootltip": ""
+                },
+                {
+                    "id": "PS4 Pro",
+                    "amount": 399.99,
+                    "currency": "USD",
+                    "limits": "1TB, 4K & HDR",
+                    "misc": "",
+                    "tootltip": ""
+                }
+            ],
+            "features": [],
+            "news": []
+        },
+        {
+            "id": 1032,
+            "type": "game-console",
+            "sid": 13,
+            "name": "Wii",
+            "url": "http://www.nintendo.com/",
+            "description": "Watching video on the Wii U involves the most up-to-date audio and video technology. The Wii U streams video in full HD (1080p), and also streams media in 1080i, 720p, 480p, and standard 4:3. The Wii U lets you access Netflix, Hulu Plus, Amazon Instant Video, and YouTube so that you can watch streaming online video on your television. In addition, you can watch streaming content on the Wii U Gamepad Controllers for a smaller screen experience.",
+            "pricing": [
+                {
+                    "id": "Wii U",
+                    "amount": 299.99,
+                    "currency": "USD",
+                    "limits": "HD, 32GB",
+                    "misc": "",
+                    "tootltip": ""
+                },
+                {
+                    "id": "Nintendo Switch",
+                    "amount": 299.99,
+                    "currency": "USD",
+                    "limits": "HD, 32GB",
+                    "misc": "",
+                    "tootltip": ""
+                }
+            ],
+            "features": [],
+            "news": []
+        },
+        {
+            "id": 1070,
+            "type": "speaker",
+            "sid": 14,
+            "name": "Amazon Echo",
+            "url": "https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E",
+            "description": "",
+            "pricing": [],
+            "features": [],
+            "news": []
+        },
+        {
+            "id": 1071,
+            "type": "speaker",
+            "sid": 15,
+            "name": "Amazon Tap",
+            "url": "https://www.amazon.com/dp/B01BH83OOM",
+            "description": "",
+            "pricing": [],
+            "features": [],
+            "news": []
+        },
+        {
+            "id": 1080,
+            "type": "dvr",
+            "sid": 16,
+            "name": "Hopper",
+            "url": "https://www.dish.com/hopper/",
+            "description": "Hopper is a DVR set-top box offered by the U.S. direct-broadcast satellite television provider Dish Network. Not only does it have multiple tuners and Netflix integration in its universal search results, but there's a new proprietary \"Sports Bar Mode\" that allows you to play four live HD channels simultaneously on one 4K screen. It also works with Sling and Alexa for searches.",
+            "pricing": [
+                {
+                    "id": "Hopper 3",
+                    "amount": 247.25,
+                    "currency": "USD",
+                    "limits": "$4K, 2TB hard drive",
+                    "misc": "",
+                    "tootltip": ""
+                }
+            ],
+            "features": [],
+            "news": []
+        },
+        {
+            "id": 1081,
+            "type": "dvr",
+            "sid": 17,
+            "name": "Tivo",
+            "url": "https://www.tivo.com/",
+            "description": "The TiVo BOLT is the shortest distance between you and your entertainment, because it combines all your options into a single box. No more switching devices, toggling inputs or juggling remotes. Whether it's from TV, available on-demand libraries or streaming apps like Netflix, Amazon Prime, HULU, YouTube or Pandora, TiVo BOLT delivers it all in an instant.",
+            "pricing": [
+                {
+                    "id": "Tivo Bolt",
+                    "amount": 299,
+                    "currency": "USD",
+                    "limits": "4K, 1TB, 4 tuners, cable/antenna",
+                    "misc": "",
+                    "tootltip": ""
+                },
+                {
+                    "id": "Tivo Bolt+",
+                    "amount": 499,
+                    "currency": "USD",
+                    "limits": "4K, 3TB, 6 tuners, cable",
+                    "misc": "",
+                    "tootltip": ""
+                }
+            ],
+            "features": [],
+            "news": []
+        },
+        {
+            "id": 1082,
+            "type": "dvr",
+            "sid": 18,
+            "name": "Channel Master",
+            "url": "https://www.channelmaster.com/",
+            "description": "All TVs that have built-in tuners that can receive over-the-air signals, but one feature that they lack that cable/satellite offers is DVR functionality. However, that is not a problem anymore as Channel Master has introduced a DVR that is designed specifically for those receive their TV programs over the air - The DVR+ TV Antenna DVR. It alsow supports apps like Sling, VUDU, Pandora, YouTube, etc.",
+            "pricing": [
+                {
+                    "id": "DVR+",
+                    "amount": 249,
+                    "currency": "USD",
+                    "limits": "16GB + USB HardDrive, HD",
+                    "misc": "",
+                    "tootltip": ""
+                },
+                {
+                    "id": "DVR+",
+                    "amount": 399,
+                    "currency": "USD",
+                    "limits": "1TB, HD",
+                    "misc": "",
+                    "tootltip": ""
+                }
+            ],
+            "features": [],
+            "news": []
+        },
+        {
+            "id": 1100,
+            "type": "app",
+            "sid": 19,
+            "name": "Pluto TV",
+            "url": "",
+            "description": "",
+            "pricing": [],
+            "features": [],
+            "news": []
+        },
+        {
+            "id": 1101,
+            "type": "app",
+            "sid": 20,
+            "name": "Twitch",
+            "url": "",
+            "description": "",
+            "pricing": [],
+            "features": [],
+            "news": []
+        }
+    ]
+}

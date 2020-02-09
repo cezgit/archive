@@ -1,0 +1,1445 @@
+{
+  "list": [
+    {
+      "id": 200,
+      "type": "mod-sub",
+      "sid": 1,
+      "name": "Spotify",
+      "url": "https://www.spotify.com/us/premium/?checkout=false",
+      "description": "Spotify offers one of the largest music selection amongst its peers boosting a catalog of <b>30M+ songs</b>. It also packs a feature-rich interface allowing subscribers to follow friends, see what they listen to, create, share and follow playlists and much more. It also offers expertly curated playlists as well as playlists tailored to activities like for example the user’s running speed.",
+      "trial": "Free 30-day Premium Trial !",
+      "countries": [],
+      "devices": [
+        "Fire TV",
+        "Android TV",
+        "Chromecast",
+        "PlayStation"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "No",
+          "quality": "160kbps",
+          "limits": "160kbps",
+          "misc": "Ad-supported, 6 skips/hour, no downloads",
+          "tootltip": ""
+        },
+        {
+          "id": "Premium",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "320kbps",
+          "limits": "320kbps",
+          "misc": "Offline listening, Unlimitted skips",
+          "tootltip": ""
+        },
+        {
+          "id": "Family Premium",
+          "amount": 14.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "320kbps",
+          "limits": "320kbps",
+          "misc": "Premium subscription for up to 6 accounts",
+          "tootltip": ""
+        },
+        {
+          "id": "Student",
+          "amount": 5,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "320kbps",
+          "limits": "320kbps",
+          "misc": "Save 50% on your Premium subscription",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Library / Catalog",
+          "value": "",
+          "description": "There are over <b>30 million songs</b> in Spotify's catalog with over 20,000 new songs added each day. There's also a <b>Video Series</b> section (under Genres & Moods) offering a limited collection of Videos.",
+          "type": "common"
+        },
+        {
+          "name": "New Releases / Exclusives",
+          "value": "",
+          "description": "The New Releases section includes new albums and singles and a weekly list (<b>New Music Friday</b>) of all the latest record releases, exclusive live sessions, and various new singles. There's also a <b>Release Radar</b> playlist with music from artists you care about.",
+          "type": "common"
+        },
+        {
+          "name": "Playlists",
+          "value": "",
+          "description": "Create, share, and follow playlists of any kind — including those shared by friends, along with expertly curated playlists for any mood or genre. <b>Your Music / Your Library</b>, your personal Spotify collection, is limited to <b>10,000 songs</b>.",
+          "type": "common"
+        },
+        {
+          "name": "Offline Listening / Downloads",
+          "value": "",
+          "description": "With Spotify Premium, you can download up to 3,333 songs per device, on a maximum of 3 different devices. You do need to go onto the internet at least once every 30 days to maintain your offline music settings.",
+          "type": "common"
+        },
+        {
+          "name": "Local Files / Uploads",
+          "value": "",
+          "description": "Add music files stored on your device to the Spotify app so you can listen to them whenever you want. However, your personal files will only be available on all the devices sharing the same WIFI network.",
+          "type": "common"
+        },
+        {
+          "name": "Radio Stations",
+          "value": "",
+          "description": "Choose a particular artist to build a station around.",
+          "type": "common"
+        },
+        {
+          "name": "Internet Radio",
+          "value": "",
+          "description": "Looks like Spotify is experimenting with Internet Radio but this feature is quite limited at the moment.",
+          "type": "common"
+        },
+        {
+          "name": "Integration",
+          "value": "",
+          "description": "Integrated with Amazon's Echo ecosystem allowing subscribers to play songs using Alexa voice commands. Also, Spotify integrates with Google Chromecast allowing for a quick and easy way to stream music from your home theater system.",
+          "type": "common"
+        },
+        {
+          "name": "Social",
+          "value": "",
+          "description": "Allows subscribers to follow friends, see what they listen to and who they follow. Also gives users the ability to share or recommend playlists, along with giving users the ability to publish their listening history to Facebook.",
+          "type": "common"
+        },
+        {
+          "name": "Activities",
+          "value": "",
+          "description": "On smartphones with the appropriate sensors, Spotify has the ability to provide a playlist tailored to the user’s running speed. Users can also choose from a variety of playlists, categorized by environment (cold weather, evening), genre, or even popularity.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 201,
+      "type": "mod-sub",
+      "sid": 2,
+      "name": "Apple Music",
+      "url": "https://www.apple.com/music/",
+      "description": "Apple Music touts about <b>40M+ songs</b> and it has the advantage of securing more exclusives than the competition, giving users access to the entire iTunes library (including your own, ripped from CD songs), curated playlists, and a 24-hour radio station helmed by BBC-alum Zane Lowe. It does a great job curating playlists (by a team of experts) to appeal to your preferences.",
+      "trial": "Free for 3 months!",
+      "countries": [],
+      "devices": [
+        "Apple TV"
+      ],
+      "pricing": [
+        {
+          "id": "Individual",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "AAC 256kbps",
+          "limits": "AAC 256kbps",
+          "misc": "Offline music, Unlimitted skips",
+          "tootltip": ""
+        },
+        {
+          "id": "Family",
+          "amount": 14.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "AAC 256kbps",
+          "limits": "AAC 256kbps",
+          "misc": "Up to 6 accounts",
+          "tootltip": ""
+        },
+        {
+          "id": "Student",
+          "amount": 4.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "AAC 256kbps",
+          "limits": "AAC 256kbps",
+          "misc": "Save 50% on an Individual subscription",
+          "tootltip": ""
+        },
+        {
+          "id": "Yearly",
+          "amount": 99,
+          "period": "yr",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "AAC 256kbps",
+          "limits": "AAC 256kbps",
+          "misc": "Get 2 months Free",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Library / Catalog",
+          "value": "",
+          "description": "Over <b>40M+ songs</b> are available for streaming. You also have the capability to integrate your personal iTunes library, whether it was purchased via the iTunes Store, ripped from a CD or uploaded to iTunes Match, it will appear in your Apple Music library alongside Apple's standard catalog. Beyond music, you can also experience music videos, concert films, live shows, and original content like TV shows and movies.",
+          "type": "common"
+        },
+        {
+          "name": "Playlists",
+          "value": "",
+          "description": "You can create and share any playlist that you've created yourself, or that was created by another Apple Music user and added to your library.",
+          "type": "common"
+        },
+        {
+          "name": "Radio Stations",
+          "value": "",
+          "description": "Curated Stations (by a team of experts) are available to appeal to your preferences. Stations might be based on style (mellow, jazzy hip hop), a particular artist, or even a particular activity like driving.",
+          "type": "common"
+        },
+        {
+          "name": "Local Files / Uploads",
+          "value": "",
+          "description": "You can have up to <b>100,000 songs</b> in your music library. Songs that you buy or bought from the iTunes Store or added to Library using your Apple Music membership don't count against this limit. Only songs smaller than <b>200 MB</b> or shorter than 2 hours can be added to the iCloud Music Library.",
+          "type": "common"
+        },
+        {
+          "name": "Internet Radio",
+          "value": "",
+          "description": "<b>Beats 1</b> broadcasts 24/7 to more than 100 countries and regions. Hear exclusive interviews, guest hosts, and the best of what’s going on in music. Apple Music also features live stations such as Bloomberg Radio, ESPN News and Sports, and NPR News and Culture.",
+          "type": "common"
+        },
+        {
+          "name": "New Releases / Exclusives",
+          "value": "",
+          "description": "There are a number of sections for new releases, \"Music You Need to Hear\", \"Hot Tracks\" and more. However, Apple Music is cutting back on album exclusives. It will still do \"some\" streaming exclusives while planning to move aggresively into exclusive videos.",
+          "type": "common"
+        },
+        {
+          "name": "Offline Listening / Downloads",
+          "value": "",
+          "description": " With an Apple Music subscription and iCloud Music Library enabled, you have the option to download any song, album, or playlist from its catalog for offline listening.",
+          "type": "common"
+        },
+        {
+          "name": "Integration",
+          "value": "",
+          "description": "<b>Siri</b> is integrated with Apple Music, allowing subscribers to issue voice commands through their iPhone or Mac.",
+          "type": "common"
+        },
+        {
+          "name": "Social",
+          "value": "",
+          "description": "In addition to the capability to share playlists, another social feature comes from the <b>Connect</b> function, which brings artists and fans closer together. You can comment, like or share any artist's message over Facebook and Twitter along with individual songs and albums.",
+          "type": "common"
+        },
+        {
+          "name": "Activities",
+          "value": "",
+          "description": "Activities are available from the Curated Playlists, labeled <b>Activities & Moods</b>.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 202,
+      "type": "mod-sub",
+      "sid": 3,
+      "name": "Pandora",
+      "url": "https://www.pandora.com/",
+      "description": "With a combination of traditional radio stations, easy to navigate interface and advanced discovery mechanisms, Pandora is a beautiful and intuitive product. With an estimated <b>40M tracks</b>, you'll get access to one the biggest catalog of songs on the internet, however, some subscribiers reported that there's a fare share of karaoke tracks and cover versions mixed in.",
+      "trial": "Free 2-months Premium Trial !",
+      "countries": [],
+      "devices": [
+        "Apple TV",
+        "Roku Player",
+        "Fire TV",
+        "Fire TV Stick",
+        "Chromecast",
+        "Roku Stick",
+        "Android TV",
+        "XBox",
+        "PlayStation",
+        "Tivo"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "No",
+          "quality": "AAC 64k",
+          "limits": "AAC 64k",
+          "misc": "Ad-supported, 6 skips/hour, 1 hour timeout",
+          "tootltip": ""
+        },
+        {
+          "id": "Plus - Monthly",
+          "amount": 4.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "192kbps",
+          "limits": "192kbps",
+          "misc": "Unlimitted skips, replays, offline listening (3 stations)",
+          "tootltip": ""
+        },
+        {
+          "id": "Plus - Yearly",
+          "amount": 54.89,
+          "period": "yr",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "192kbps",
+          "limits": "192kbps",
+          "misc": "1 Free Month",
+          "tootltip": ""
+        },
+        {
+          "id": "Premium - Monthly",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "192kbps",
+          "limits": "192kbps",
+          "misc": "All Plus features, no timeouts, no download limits, on-demand, customizable playlists",
+          "tootltip": ""
+        },
+        {
+          "id": "Premium - Yearly",
+          "amount": 109.89,
+          "period": "yr",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "192kbps",
+          "limits": "192kbps",
+          "misc": "1 Free Month",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Library / Catalog",
+          "value": "",
+          "description": "There are over <b>40M songs</b> to choose from but there's also a lot of chaff (karaoke tracks and cover versions, etc) you'll have to sort through.",
+          "type": "common"
+        },
+        {
+          "name": "Playlists",
+          "value": "",
+          "description": "With the Premium subscription you can easily fully customize your playlists and add specific songs, artists, and albums in the order you prefer. <b>Auto-generated</b> playlists are created after you have Thumbed-up five or more songs on stations you've created. <b>My Thumbs Up</b> is a playlist that collects your Thumbed up tracks from each of your stations. Every time you Thumb up a song on your stations, it will be automatically added to this playlist.",
+          "type": "common"
+        },
+        {
+          "name": "Radio Stations",
+          "value": "",
+          "description": "Pandora at its core is a radio service. Start a radio station by adding an artist or song title and then providing hints along the way by giving songs a thumbs up or thumbs down. Pandora has one of the most advanced algorithms in choosing songs for you by picking the right tracks using info like instruments used for a song, distortion level, track tempo and more.",
+          "type": "common"
+        },
+        {
+          "name": "Local Files / Uploads",
+          "value": "",
+          "description": "Although you can't add your library to Pandora, you can however add album art, biography and lyrics to your Station.",
+          "type": "common"
+        },
+        {
+          "name": "Offline Listening / Downloads",
+          "value": "",
+          "description": "You can download the most-listened-to stations and add them to your Offline Station list. Pandora queues up your top three stations (plus your Thumbprint Radio if you’ve added it), and your listening experience will effortlessly go into offline mode. You won't be able to do it on iPads or tables with cellular capability just yet.",
+          "type": "common"
+        },
+        {
+          "name": "Integration",
+          "value": "",
+          "description": "Pandora integrates with a lot of devices and, if you've purchased your car rencently, it's probably in your car too. It integrates nicely with Amazon's Echo (just ask Alexa).",
+          "type": "common"
+        },
+        {
+          "name": "Social",
+          "value": "",
+          "description": "There are some social sharing features with support for Facebook and Twitter but not on the redesigned website.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 203,
+      "type": "mod-sub",
+      "sid": 4,
+      "name": "Tidal",
+      "url": "http://tidal.com/us/try-now-b",
+      "description": "TIDAL started as a Hi-Def / Lossless music experience, but in time the company adapted its service and it now includes a library of over <b>40M songs</b> and <b>75K videos</b>. Its library is at par with its competitors and it includes exclusive content, access to rough tracks, studio sessions and, a place to buy merchandise. Tidal’s library can sound significantly better than rival companies' streams.",
+      "trial": "Free 30-day HiFi Trial!",
+      "countries": [],
+      "devices": [
+        "Chromecast"
+      ],
+      "pricing": [
+        {
+          "id": "Premium",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "AAC 320kbps",
+          "limits": "AAC 320kbps",
+          "misc": "",
+          "tootltip": ""
+        },
+        {
+          "id": "Premium 6-months",
+          "amount": 8.49,
+          "period": "6mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "AAC 320kbps",
+          "limits": "AAC 320kbps",
+          "misc": "",
+          "tootltip": ""
+        },
+        {
+          "id": "HiFi",
+          "amount": 19.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "1411kbps",
+          "limits": "1411kbps",
+          "misc": "",
+          "tootltip": ""
+        },
+        {
+          "id": "HiFi 6-months",
+          "amount": 16.99,
+          "period": "6mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "1411kbps",
+          "limits": "1411kbps",
+          "misc": "",
+          "tootltip": ""
+        },
+        {
+          "id": "Family Premium",
+          "amount": 14.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "320kbps",
+          "limits": "320kbps",
+          "misc": "",
+          "tootltip": ""
+        },{
+          "id": "Family HiFi",
+          "amount": 29.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "1411kbps",
+          "limits": "1411kbps",
+          "misc": "",
+          "tootltip": ""
+        },
+        {
+          "id": "Student Premium",
+          "amount": 4.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "AAC 320kbps",
+          "limits": "AAC 320kbps",
+          "misc": "",
+          "tootltip": ""
+        },
+        {
+          "id": "Student HiFi",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "1411kbps",
+          "limits": "1411kbps",
+          "misc": "",
+          "tootltip": ""
+        },
+        {
+          "id": "Military Premium",
+          "amount": 5.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "AAC 320kbps",
+          "limits": "AAC 320kbps",
+          "misc": "",
+          "tootltip": ""
+        },
+        {
+          "id": "Military HiFi",
+          "amount": 11.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "1411kbps",
+          "limits": "1411kbps",
+          "misc": "",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Library / Catalog",
+          "value": "",
+          "description": "TIDAL has over <b>48.5M songs</b> in its catalog and over <b>175,000 high quality videos</b>, offering premium and high fidelity sound quality, along with high resolution video, and expertly curated editorial content.",
+          "type": "common"
+        },
+        {
+          "name": "New Releases / Exclusives",
+          "value": "",
+          "description": "Tidal seems to be the place-to-go for new releases and exclusive content. With a TIDAL subscription you get singles, albums and videos, access to tickets that others can’t get, and experiences that are developed exclusively for TIDAL members.",
+          "type": "common"
+        },
+        {
+          "name": "Playlists",
+          "value": "",
+          "description": "Create a new Playlist, then choose a name. Search for the track of your choice and add the song to your playlist. You can also search Playlists by genre or pick one of the many curated available ones.",
+          "type": "common"
+        },
+        {
+          "name": "Offline Listening / Downloads",
+          "value": "",
+          "description": "Download content of your choosing to your device, and play it when there is no network available. This works for both Premium and HiFi.",
+          "type": "common"
+        },
+        {
+          "name": "Local Files / Uploads",
+          "value": "",
+          "description": "Import your playlists to TIDAL using the 3rd party service <a target=\"_blank\" href=\"http://www.Soundiiz.com\">Soundiiz.com</a>",
+          "type": "common"
+        },
+        {
+          "name": "Radio Stations",
+          "value": "",
+          "description": "Select an artist radio or individual track radio, and let Tidal do the work for you.",
+          "type": "common"
+        },
+        {
+          "name": "Integration",
+          "value": "",
+          "description": "Not surprisingly, Tidal is available to a lot of high-end streaming devices like Sonos, Polk, Denon, Harman Kardon and many more.",
+          "type": "common"
+        },
+        {
+          "name": "Social",
+          "value": "",
+          "description": "Connect Tidal to Facebook which will allow you to share music with your friends. You can also extract a URL if you want to link someone to any album, playlist or track.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 204,
+      "type": "mod-sub",
+      "sid": 5,
+      "name": "Amazon Music",
+      "url": "https://www.amazon.com/gp/dmusic/promotions/AmazonMusicUnlimited",
+      "description": "Amazon has various plans for Prime and non-Prime members. The best option is Music Unlimited which is good for \"tens of millions of songs\" and dozens of stations in its catalog, plus the expected genres variety. The app interface is designed to help you discover music by recommending albums and playlists based on your listening habits.",
+      "trial": "Free 30-day Trial for the Unlimited plan!",
+      "countries": [],
+      "devices": [
+        "Amazon Echo",
+        "Amazon Tap",
+        "Roku Player",
+        "Fire TV",
+        "Roku Stick",
+        "Fire TV Stick"
+      ],
+      "pricing": [
+        {
+          "id": "Prime Music",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "192kbps+",
+          "limits": "192kbps+",
+          "misc": "Free with Amazon Prime membership 2M songs, ad-free, on-demand, unlimited skips, offline listening",
+          "tootltip": ""
+        },
+        {
+          "id": "Unlimited",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "192kbps+",
+          "limits": "192kbps+",
+          "misc": "40M songs, ad-free, on-demand, unlimited skips, offline listening",
+          "tootltip": ""
+        },
+        {
+          "id": "Unlimited Prime/mo",
+          "amount": 7.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "192kbps+",
+          "limits": "192kbps+",
+          "misc": "All features of Music Unlimited for Amazon Prime members",
+          "tootltip": ""
+        },
+        {
+          "id": "Unlimited Prime/yr",
+          "amount": 79,
+          "period": "yr",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "192kbps+",
+          "limits": "192kbps+",
+          "misc": "2-months free and All features of Music Unlimited Prime plan",
+          "tootltip": ""
+        },
+        {
+          "id": "Unlimited - Echo",
+          "amount": 3.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "192kbps+",
+          "limits": "192kbps+",
+          "misc": "All features of Music Unlimited on a single Echo, Dot or Tap",
+          "tootltip": ""
+        },
+        {
+          "id": "Unlimited - Family/mo",
+          "amount": 14.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "192kbps+",
+          "limits": "192kbps+",
+          "misc": "All features of Music Unlimited plan for up to 6 family members",
+          "tootltip": ""
+        },
+        {
+          "id": "Unlimited - Family/yr",
+          "amount": 149,
+          "period": "yr",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "192kbps+",
+          "limits": "192kbps+",
+          "misc": "2-months free and all features of Music Unlimited Family plan for Amazon Prime Members",
+          "tootltip": ""
+        }
+      ],
+			"features": [
+			  {
+			    "name": "Library / Catalog",
+			    "value": "",
+			    "description": "The Prime plan includes only about 2 million songs. With an Amazon Music Unlimited subscription, you get access to <b>tens of millions of songs</b>, thousands of Playlists hand-curated by Amazon's music experts, and personalized Stations.",
+			    "type": "common"
+			  },
+			  {
+			    "name": "New Releases / Exclusives",
+			    "value": "",
+			    "description": "There's a <b>New Releases Album</b> section which includes the hottest new releases from today's most popular artists. Exclusive are rare but they do happen (Garth Brooks in late 2016).",
+			    "type": "common"
+			  },
+			  {
+			    "name": "Playlists",
+			    "value": "",
+			    "description": "The <b>Playlists For You</b> section offers collections for any mood or activity plus the expected Classical, Decades, Rock, and Hip-Hop genres.",
+			    "type": "common"
+			  },
+			  {
+			    "name": "Offline Listening / Downloads",
+			    "value": "",
+			    "description": "Download as many songs as you'd like from Prime Music, to any compatible mobile device registered to your Amazon account. You can have up to <b>10 different devices</b> authorized to use Amazon Music on your account.",
+			    "type": "common"
+			  },
+			  {
+			    "name": "Local Files / Uploads",
+			    "value": "",
+			    "description": "Upload up to <b>250 songs</b> to <b>My Music</b> for free. Once uploaded, your music stays synchronized across all of your devices. Amazon Digital Music purchases do not count towards library limits, however, in order to upload your music, you need to install the Amazon Music for PC or Mac.",
+			    "type": "common"
+			  },
+			  {
+			    "name": "Radio Stations",
+			    "value": "",
+			    "description": "Similar to the Playlists section, the Unlimited plan has thousands of expert-programmed stations.",
+			    "type": "common"
+			  },
+			  {
+			    "name": "Integration",
+			    "value": "",
+			    "description": "Use an <b>Echo</b>, <b>Echo Dot</b>, or <b>Amazon Tap</b> to search for songs by lyrics, fire up playlists, and search for songs to match your mood.",
+			    "type": "common"
+			  },
+			  {
+			    "name": "Social",
+			    "value": "",
+			    "description": "Share stations and playlists to Facebook or Twitter.",
+			    "type": "common"
+			  },
+			  {
+			    "name": "Activities",
+			    "value": "",
+			    "description": "Choose a Playlists based on you mood (work, study, workout, etc) or favorite genre (rock, jazz, pop, etc).",
+			    "type": "common"
+			  }
+			],
+      "news": []
+    },
+    {
+      "id": 205,
+      "type": "mod-sub",
+      "sid": 6,
+      "name": "Google Play Music",
+      "url": "https://play.google.com/music/listen?authuser#/home",
+      "description": "Google Play boosts a sizable music library of over <b>40M songs</b> of really good sound quality (320kbps) as well as <b>YouTube</b> integration, and, lots of tunes in the form of playlists, artist-specific channels, and on-demand streams. It will also recommend music based on your interests by asking you to select a handful of genres in the setup step.",
+      "trial": "Free 30-day Trial for the Unlimited plan!",
+      "countries": [],
+      "devices": [
+        "Chromecast"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "No",
+          "quality": "320kbps",
+          "limits": "320kbps",
+          "misc": "Ad-supported, 6 skips / hour, 50K songs upload",
+          "tootltip": ""
+        },
+        {
+          "id": "Unlimited",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "320kbps",
+          "limits": "320kbps",
+          "misc": "Unlimited skips, 50K songs upload, offline playback, free YouTube red",
+          "tootltip": ""
+        },
+        {
+          "id": "Family",
+          "amount": 14.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "320kbps",
+          "limits": "320kbps",
+          "misc": "All features of Unlimited for up to 6 people",
+          "tootltip": ""
+        }
+      ],
+			"features": [
+			  {
+			    "name": "Library / Catalog",
+			    "value": "",
+			    "description": "Google's Music Library of over <b>40M songs</b> is broken into Playlists, Stations, Artist, Albums, Songs and Genres. Add to that the free access to <b>YouTube Red</b> and you end up with a sieable collection of songs and music videos.",
+			    "type": "common"
+			  },
+			  {
+			    "name": "New Releases / Exclusives",
+			    "value": "",
+			    "description": "There's a New Releases section which presents you with the newest album releases.",
+			    "type": "common"
+			  },
+			  {
+			    "name": "Playlists",
+			    "value": "",
+			    "description": "Add purchased, uploaded, or subscription tracks to playlists. You can add up to <b>1,000 songs</b> to a playlist. Google uses smart recommendations to build its curated auto-playlists.",
+			    "type": "common"
+			  },
+			  {
+			    "name": "Offline Listening / Downloads",
+			    "value": "",
+			    "description": "Google allows downloads on up to <b>5 devices</b> and up to <b>10 devices</b> can be authorized for your account.",
+			    "type": "common"
+			  },
+			  {
+			    "name": "Local Files / Uploads",
+			    "value": "",
+			    "description": "Google Play Music offers all users storage of up to <b>50,000 files</b> from their music collection online at no cost, and the ability to listen to them through the service's web player and mobile apps. The service scans the user's collection and matches the files to tracks in Google's catalog, which can then be streamed or downloaded in 320 kpbs MP3 format.",
+			    "type": "common"
+			  },
+			  {
+			    "name": "Radio Stations",
+			    "value": "",
+			    "description": "Under Listen Now Google offers <b>I'm feeling lucky radio.</b> The more you use Google Music the more accurate the <b>I'm feeling lucky</b> suggestions become. Download radio stations to your Android mobile device to listen without an Internet connection.",
+			    "type": "common"
+			  },
+			  {
+			    "name": "Integration",
+			    "value": "",
+			    "description": "Play songs, albums, playlists, and more from Google Play Music on your Sonos speakers through your device or computer.",
+			    "type": "common"
+			  },
+        {
+          "name": "Social",
+          "value": "",
+          "description": "Share music in your library with others (excluding uploaded songs due to copyright concerns)."
+        },
+			  {
+			    "name": "Activities",
+			    "value": "",
+			    "description": "Activitiy Playlists are included for working, working out, keeping calm and mellow...and more.",
+			    "type": "common"
+			  }
+			],
+      "news": []
+    },
+    {
+      "id": 206,
+      "type": "mod-sub",
+      "sid": 7,
+      "name": "Microsoft Groove Music",
+      "url": "https://music.microsoft.com/",
+      "description": "Previously known as Xbox Music and Zune Music, Microsoft’s Groove Music packs <b>40M+ songs</b> of an undisclosed sound quality (probably 192kbps or better) and, a friendly interface that lets you easily construct playlists and custom radio stations. Users can also upload their own tunes to the cloud (<b>OneDrive</b>) where they’ll always be available to your Groove Music App.",
+      "trial": "Free 30-day Trial!",
+      "countries": [],
+      "devices": [
+        "XBox"
+      ],
+      "pricing": [
+        {
+          "id": "Groove Music Pass (mo)",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "192kbps+",
+          "limits": "192kbps+",
+          "misc": "Ad-free, unlimited skips, offline playback, 50K songs upload",
+          "tootltip": ""
+        },
+        {
+          "id": "Groove Music Pass (yr)",
+          "amount": 107.9,
+          "period": "yr",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "192kbps+",
+          "limits": "192kbps+",
+          "misc": "All monthly features at a 10% discount",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Library / Catalog",
+          "value": "",
+          "description": "Make and find Playlists for any ocation from more than <b>40M songs</b> - Romantic dinners, workout mixes, and highway getaways.",
+          "type": "common"
+        },
+        {
+          "name": "New Releases / Exclusives",
+          "value": "",
+          "description": "There's a section for New Releases.",
+          "type": "common"
+        },
+        {
+          "name": "Playlists",
+          "value": "",
+          "description": "Create a Playlist by dragging a song or album onto the new Playlist; dragging a track or album to Collection creates what is essentially a shortcut to your favorite content.",
+          "type": "common"
+        },
+        {
+          "name": "Offline Listening / Downloads",
+          "value": "",
+          "description": "Download songs to listen to later when you're not online.",
+          "type": "common"
+        },
+        {
+          "name": "Radio Stations",
+          "value": "",
+          "description": "The Radio section encourages you to enter an artist's name to build a themed playlist.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 207,
+      "type": "mod-sub",
+      "sid": 8,
+      "name": "Slacker Radio",
+      "url": "http://www.slacker.com/",
+      "description": "Essentially a radio station to match your music interests, Slacker delivers free and subscription-based access to millions of songs and hundreds of expert-programmed stations (DNA stations, channels hosted by music experts who play the tracks that influenced important artists), plus news, sports, talk and entertaining lifestyles channels. It also boosts some deep customization options.",
+      "trial": "",
+      "countries": [],
+      "devices": [
+        "Roku Player",
+        "Roku Stick",
+        "XBox"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "No",
+          "quality": "128kbps",
+          "limits": "128kbps",
+          "misc": "6 skips/hour/station, create custom stations",
+          "tootltip": ""
+        },
+        {
+          "id": "Radio Plus",
+          "amount": 3.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "320kbps",
+          "limits": "320kbps",
+          "misc": "Ad-free, unlimited skips, cache stations for offline listening",
+          "tootltip": ""
+        },
+        {
+          "id": "Radio Premium",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "320kbps",
+          "limits": "320kbps",
+          "misc": "All features of Radio Plus and, on-demand play, create playlists, cache albums/playlists for offline listening",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Library / Catalog",
+          "value": "",
+          "description": "Slacker Radio is mainly based on <b>Stations</b> / <b>Playlists</b> covering new album releases, artists and the usual collection of genres like Decades, Rock, Chill, Blues, etc.",
+          "type": "common"
+        },
+        {
+          "name": "Playlists",
+          "value": "",
+          "description": "You can create and manage custom playlists or listen to any of the miriad of pre-loaded playlists Slack offers. Your playlists, custom stations, and recently played stations are all listed under the <b>My Music</b> category.",
+          "type": "common"
+        },
+        {
+          "name": "New Releases / Exclusives",
+          "value": "",
+          "description": "Includes <b>Slacker Top 40</b> and a <b>Specials</b> section for original countdowns, artist takeovers, and more.",
+          "type": "common"
+        },
+        {
+          "name": "Offline Listening / Downloads",
+          "value": "",
+          "description": "With a paid subscription you can add a station/album/playlist to Offline (Downloaded) Content for offline listening.",
+          "type": "common"
+        },
+        {
+          "name": "Radio Stations",
+          "value": "",
+          "description": "Slacker's selection of radio stations is unique and well-curated. Listen to existing stations, add them to your favorites, build custom stations around songs, artists or genres, view other stations based on the currently playing song, fine tune your stations to favor playing more or less of your favorites, newly discovered music, popular songs, older/newer tracks, etc.",
+          "type": "common"
+        },
+        {
+          "name": "Internet Radio",
+          "value": "",
+          "description": "Slacker includes news and weather updates, live ESPN radio, entertaining lifestyles channels, and well organized themed internet radio stations.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 208,
+      "type": "mod-sub",
+      "sid": 9,
+      "name": "Napster",
+      "url": "http://us.napster.com/",
+      "description": "Formerly know as Rhapsody, Napster has a catalog of over <b>30 million songs</b>. The Premier option offers on-demand, ad-free music, lets you create playlists, customize them with giphys and make them public so that others can tune in and check out your music taste. The \"Music Match\" feature finds members with similar music tastes, and recommends songs and playlists for you.",
+      "trial": "Free 30-day Trial of the Premier Plan!",
+      "countries": [],
+      "devices": [
+        "Chromecast",
+        "Wii"
+      ],
+      "pricing": [
+        {
+          "id": "unRadio",
+          "amount": 4.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "AAC 320kbps",
+          "limits": "AAC 320kbps",
+          "misc": "30M songs, ad-free, personalized radio unlimited skips - 14-day Free Trial",
+          "tootltip": ""
+        },
+        {
+          "id": "Premier",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "AAC 320kbps",
+          "limits": "AAC 320kbps",
+          "misc": "all features of unRadio plus 30-day Free Trial, create playlists, on-demand, offline and social listening",
+          "tootltip": ""
+        },
+        {
+          "id": "Family",
+          "amount": 14.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "AAC 320kbps",
+          "limits": "AAC 320kbps",
+          "misc": "all features of Premier for up to 5 people",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Library / Catalog",
+          "value": "",
+          "description": "Over 30 million songs on demand, available to browse through in a variety of genres. Search for specific tracks, artists and albums and choose songs that are trending. Stream music that matches your current mood.",
+          "type": "common"
+        },
+        {
+          "name": "New Releases / Exclusives",
+          "value": "",
+          "description": "The <b>Trending</b> section includes the top/hot tracks for a variety of genres as well as a specific <b>New Releases</b> playlist.",
+          "type": "common"
+        },
+        {
+          "name": "Playlists",
+          "value": "",
+          "description": "Create playlists with the <b>Playlist Maker</b>. As you build your playlist, Napster shows you suggestions based on songs in your list and your listening habits. Customize your playlists with an animated GIF from GIPHY and share it with your friends (or the world).",
+          "type": "common"
+        },
+        {
+          "name": "Offline Listening / Downloads",
+          "value": "",
+          "description": "Download any song to listen offline.",
+          "type": "common"
+        },
+        {
+          "name": "Radio Stations",
+          "value": "",
+          "description": "Radio Stations are available to listen to and add to your favorites. You can search stations by category/genres or select existing specially currated stations.",
+          "type": "common"
+        },
+        {
+          "name": "Social",
+          "value": "",
+          "description": "Share playlists with your friends. Other Napster members can follow your playlists so they automatically get updates you make. <b>Music Match</b> finds members with similar music tastes, and recommend songs and playlists for you.",
+          "type": "common"
+        },
+        {
+          "name": "Activities",
+          "value": "",
+          "description": "The <b>Activities</b> playlist offers a number of pre-built playlists for working out, airplane rides, party mixes, etc",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 209,
+      "type": "mod-sub",
+      "sid": 10,
+      "name": "SoundCloud",
+      "url": "https://soundcloud.com/",
+      "description": "Described as the world’s leading social sound platform where anyone can listen to or create sounds and share them everywhere, SoundCloud lets you be a creator, a listener or a curator which listens, saves, and follows up-and-coming creators, builds hit playlists and shares the passion with its followers.",
+      "trial": "Free SoundCloud Go+ 30-day Trial!",
+      "countries": [],
+      "devices": [
+        "Chromecast",
+        "XBox"
+      ],
+      "pricing": [
+        {
+          "id": "SoundCloud Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "No",
+          "quality": "128kbps",
+          "limits": "128kbps",
+          "misc": "ad-supported, 120M+ tracks to stream and share",
+          "tootltip": ""
+        },
+        {
+          "id": "SoundCloud Go",
+          "amount": 4.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "128kbps",
+          "limits": "128kbps",
+          "misc": "120M+ tracks, ad-free, offline listening, 3 hours of space for uploads",
+          "tootltip": ""
+        },
+        {
+          "id": "SoundCloud Go+",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "128kbps",
+          "limits": "128kbps",
+          "misc": "150M+ tracks, ad-free, offline listening, 6 hours of space for uploads",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Library / Catalog",
+          "value": "",
+          "description": "SoundCloud has a library of over <b>100 million songs</b>, consisting of DJ mixes, covers and unique music from content creators. It's also fairly popular for podcasts. With a subscription you have access to even more songs (about <b>20M+</b> more) including content from major artists.",
+          "type": "common"
+        },
+        {
+          "name": "New Releases / Exclusives",
+          "value": "",
+          "description": "SoundCloud is increasingly becoming a place where users can discover the latest recordings, the songs and artists that will be popular tomorrow.",
+          "type": "common"
+        },
+        {
+          "name": "Playlists",
+          "value": "",
+          "description": "Playlists are sets or albums that you can create using your own or other people's tracks on SoundCloud. A nice touch is provided by the <b>Charts</b> section where you can listen to <b>Top 50</b> or <b>New & Hot</b> tracks from a variety of genres including Jazz & Blues, Pop, Rock, Ambient, Classical and many more.",
+          "type": "common"
+        },
+        {
+          "name": "Offline Listening / Downloads",
+          "value": "",
+          "description": "Offline listening is available through the SoundCloud Go subscription. With offline listening, it can be as simple as liking your favorite tracks or playlists and they’re instantly on your mobile device, with or without signal.",
+          "type": "common"
+        },
+        {
+          "name": "Local Files / Uploads",
+          "value": "",
+          "description": "It doesn't matter if you're a Free, Pro or Pro Unlimited user - anyone can upload their tracks to SoundCloud for the world to hear. By uploading, you confirm that your tracks comply with SoundCloud's Terms of Use and don’t infringe on anyone else’s rights. Uploads are Web only.",
+          "type": "common"
+        },
+        {
+          "name": "Radio Stations",
+          "value": "",
+          "description": "Stations is a way to discover the tracks you've never heard anywhere else, making it easy to tap into a long stream of music related to your favorite tracks. With Stations, you’ll get an endless stream of audio pulled from the 135 million tracks available on SoundCloud.",
+          "type": "common"
+        },
+        {
+          "name": "Social",
+          "value": "",
+          "description": "Users can follow each other, which allows you to find music based on another user’s musical taste and preferences. SoundCloud offers plenty of opportunities to share and embed its players to various social networks includng Facebook, Twitter, Google+, Pinterest, etc.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 210,
+      "type": "mod-sub",
+      "sid": 11,
+      "name": "Deezer",
+      "url": "https://www.deezer.com/us/",
+      "description": "Choose from over 43 million tracks. Discover the perfect playlist or create your own from millions of playlists, albums, mixes, and more. Browse curated collections by genre. Play everything from the Top 40 to unsigned acts on all your devices, see the lyrics to all your favorites on-screen.",
+      "trial": "Premium+ Plan FREE for 30 days!",
+      "countries": [],
+      "devices": [
+        "Roku Player",
+        "Roku Stick",
+        "Chromecast",
+        "Android TV",
+        "Fire TV",
+        "Fire TV Stick"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "No",
+          "quality": "128kbps",
+          "limits": "128kbps",
+          "misc": "Flow & mixes only",
+          "tootltip": ""
+        },
+        {
+          "id": "Premium+",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "320kbps",
+          "limits": "320kbps",
+          "misc": "No ads, offline listening, 45MB upload limit",
+          "tootltip": ""
+        },
+        {
+          "id": "Family",
+          "amount": 14.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "320kbps",
+          "limits": "320kbps",
+          "misc": "All features of Premium+ for up to 6 music profiles",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Library / Catalog",
+          "value": "",
+          "description": "Once singed up, you select <b>5 genres</b> and Deezer makes up a <b>Flow</b> personalized radio station of endless streaming. The original selection gets better with each song provided you let Deezer know if you liked the song or not. If liked, the song goes automatically into your <b>Favorites</b> list. Deezer also hosts podcasts (freely uploadable) and, various internet radio stations.",
+          "type": "common"
+        },
+        {
+          "name": "New Releases / Exclusives",
+          "value": "",
+          "description": "Listen to the current Charts or Popular list or, pick a playlist from the <b>New Releases</b> section.",
+          "type": "common"
+        },
+        {
+          "name": "Playlists",
+          "value": "",
+          "description": "Lots of <b>Playlists</b> are available to choose from including Popular, Charts, and Picks selected by Deezer's editors. Or, just create your own and populate it with your favorites.",
+          "type": "common"
+        },
+        {
+          "name": "Offline Listening / Downloads",
+          "value": "",
+          "description": "Deezer allows downloads keep your favorite tunes with you, wherever you go! In order to continue having access to your offline music you do need to <b>connect to your Deezer account every 15 days</b> and confirm your subscription.",
+          "type": "common"
+        },
+        {
+          "name": "Local Files / Uploads",
+          "value": "",
+          "description": "Deezer's MP3 upload option lets you load your own music files into your Deezer account. You can add as many MP3s as you like, just make sure each is <b>less than 45Mb</b>",
+          "type": "common"
+        },
+        {
+          "name": "Radio Stations",
+          "value": "",
+          "description": "The Radio Stations selection includes <b>Artist Radio</b> for the artists you like and lots of genre stations to choose from.",
+          "type": "common"
+        },
+        {
+          "name": "Internet Radio",
+          "value": "",
+          "description": "There are quite a few Internet Radio stations, local and international, to choose from ordered by popularity.",
+          "type": "common"
+        },
+        {
+          "name": "Integration",
+          "value": "",
+          "description": "There are loads of devices that work with Deezer and with a Premium+ subscription you can connect <b>up to 3 different devices</b>, in your car, through Chromecast, SONOS or Apple Watch.",
+          "type": "common"
+        },
+        {
+          "name": "Social",
+          "value": "",
+          "description": "Social integration with Facebook is present, allowing you to see what your friends are listening to. The <b>Feed</b> section allows you to connect your Deezer account to Facebook, Twitter or Google+.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 211,
+      "type": "mod-sub",
+      "sid": 12,
+      "name": "iHeartRadio",
+      "url": "https://www.iheart.com/",
+      "description": "iHeartRadio brings you thousands of real radio stations covering Pop, Country, Hip-Hop, R&B, Alternative, Rock, Talk, News, Sports, Comedy and Exclusive iHeartRadio live music events. Choose your favorite song or artist and iHeartRadio does all the work to create your station from a library of 20 million songs and 800,000 artists. Fine-tune your stations using thumbs up or down.",
+      "trial": "Free 30-day Trial!",
+      "countries": [],
+      "devices": [
+        "Chromecast",
+        "Fire TV",
+        "Fire TV Stick",
+        "Roku Player",
+        "Roku Stick",
+        "XBox"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "No",
+          "quality": "128kbps",
+          "limits": "128kbps",
+          "misc": " Listen to your favorite Live Stations, create ad-free all-music Artist Radio Stations",
+          "tootltip": ""
+        },
+        {
+          "id": "iHeart Radio Plus",
+          "amount": 4.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "128kbps",
+          "limits": "128kbps",
+          "misc": "On-demand music, unlimited skips, save songs from radio to your playlist, replay radio songs. Signing up through the <b>iOS AppStore</b> costs <b>$5.99/mo</b>",
+          "tootltip": ""
+        },
+        {
+          "id": "iHeart Radio All Access",
+          "amount": 9.99,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "128kbps",
+          "limits": "128kbps",
+          "misc": "All Radio Plus features plus offline listening, create unlimited playlists",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Library / Catalog",
+          "value": "",
+          "description": "iHeartRadio has dozens of curated artist stations, lots of genre stations, and more than 400,000 artists and 15 million songs in the iHeartRadio catalog.",
+          "type": "common"
+        },
+        {
+          "name": "New Releases / Exclusives",
+          "value": "",
+          "description": "There's a New Releases section titled <b>Fresh Pick Mondays</b> with a variety of video-blogs from <b>New Music Reports</b>, <b>New Releases</b>, <b>Expert Picks</b>, <b>Emerging Artists</b> and more.",
+          "type": "common"
+        },
+        {
+          "name": "Playlists",
+          "value": "",
+          "description": "Create unlimited playlists with iHeartRadio <b>All Access</b> plan or just listen to any of the existing one organized by Featured, Decades, Moods & Activities, Genres and more.",
+          "type": "common"
+        },
+        {
+          "name": "Offline Listening / Downloads",
+          "value": "",
+          "description": "With iHeartRadio All Access you can take your playlists from online to offline with a quick toggle. The Offline feature is only available in the iOS and Android versions of the iHeartRadio app.",
+          "type": "common"
+        },
+        {
+          "name": "Radio Stations",
+          "value": "",
+          "description": "You have to option to create your own Artist Radion Stations or listen to any of the exising ones featuring Popular Artists or Genres.",
+          "type": "common"
+        },
+        {
+          "name": "Internet Radio",
+          "value": "",
+          "description": " iHeartRadio is firmly focused on live internet radio streams. Its homepage prominently displays a 20-square grid that highlights Top 40& Pop, Rock, Jazz, Comedy, News & Talk, Sports, and other categories of content. The <b>Live Radio</b> section also lists the top stations in your location.",
+          "type": "common"
+        },
+        {
+          "name": "Integration",
+          "value": "",
+          "description": "There are multiple devices you can listen to iHeartRadio from, including Home Entertainment devices and Automotive.",
+          "type": "common"
+        },
+        {
+          "name": "Social",
+          "value": "",
+          "description": "<b>Facebook Timeline</b> is a way to aggregate and publish the top radio stations, artist, and song you listen enjoy on your Facebook Profile.",
+          "type": "common"
+        },
+        {
+          "name": "Activities",
+          "value": "",
+          "description": "Playlists categorised in <b>Moods & Activities</b> can be used for workouts, parties, road trips, focus, sleep, chill and more.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    },
+    {
+      "id": 212,
+      "type": "mod-sub",
+      "sid": 13,
+      "name": "Last.fm",
+      "url": "https://www.last.fm/",
+      "description": "Last.fm helps you explore a vast world of music and learn about new music you might like, see what other people like and share your passion for music with them, track what you’ve heard and use this to power for recommendations and re-discovery. A cool feature is the ability to generate detailed charts and stats based on users' personal tastes every week.",
+      "trial": "",
+      "countries": [],
+      "devices": [
+        "Apple TV"
+      ],
+      "pricing": [
+        {
+          "id": "Free",
+          "amount": 0,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "No",
+          "quality": "128kbps",
+          "limits": "128kbps",
+          "misc": "Stream music for free while combining your favorite music with great listening, watching and sharing features too",
+          "tootltip": ""
+        },
+        {
+          "id": "Premium",
+          "amount": 3,
+          "period": "mo",
+          "currency": "USD",
+          "commercialFree": "Yes",
+          "quality": "128kbps",
+          "limits": "128kbps",
+          "misc": "Ad-free, Exclusive early access",
+          "tootltip": ""
+        }
+      ],
+      "features": [
+        {
+          "name": "Library / Catalog",
+          "value": "",
+          "description": "Last.fm's music library contains well <b>over 12 million</b> individual audio tracks and videos from artists on all the major commercial and independent labels. Commercially available albums are regularly added by Last.fm staff. The library includes a wide variety of genres including videos, photos, stats, charts, biographies, concerts and popular music, classical, opera and musicals, as well as many little known and specialist recordings which are no longer generally available.",
+          "type": "common"
+        },
+        {
+          "name": "New Releases / Exclusives",
+          "value": "",
+          "description": "Listen to new musing by accessing the Live Charts, New Releases and Coming Soon sections.",
+          "type": "common"
+        },
+        {
+          "name": "Radio Stations",
+          "value": "",
+          "description": "You can start a Last.fm station, which plays a mix of different artists, from a user profile page, an artist page or a tag page. Last.fm also offers customised virtual radio stations consisting of uninterrupted audio streams of individual tracks selected from the music files in the music library.",
+          "type": "common"
+        },
+        {
+          "name": "Integration",
+          "value": "",
+          "description": "Last.fm can be integrated with other popular music services, including your iTunes library, Spotify, YouTube, SoundCloud and others in a way that brings them together to make them more powerful than they are when used alone.",
+          "type": "common"
+        },
+        {
+          "name": "Social",
+          "value": "",
+          "description": "When you sign up, you can build your own Last.fm user profile and then you can go ahead and connect with friends or check out your weekly musical neighbors. Follow everyone you are friends with and they are following you. Groups and events are available to join as well.",
+          "type": "common"
+        }
+      ],
+      "news": []
+    }
+  ]
+}
